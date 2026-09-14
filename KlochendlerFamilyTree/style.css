@@ -1,0 +1,917 @@
+
+/* Default theme */
+@media print {
+    html,body {width: 257mm;
+			   font-family: Arial, Helvetica;}
+}
+
+html{ 
+	height: 100%;
+	margin: 0;
+	padding: 0;
+    font-size: calc(calc(0.875em + 0.390625vw) * 100 / 100);
+}
+/* Narrative Report Theme CSS file
+ the classes gno-heading, gno-index, gno-detail, anbd gno-popup defined below are applied to <body> tags of all pages thatare 
+ displayed in the heading, toc, detail and popup frames respectively.
+ 
+ all images must be loaded from the reports images folder. Any non default images must be present in the theme folder
+ (and referenced in the files.txt file if GenoPro 2.5.3.6 or below) and will be automatically copied to the report's images folder by the skin.
+
+*/
+
+/* the line below removes frame borders if Config Param 'FrameBorders' is set to 'Auto'. This cannot be done via CSS but the text below is 
+   detected in the skin and acted upon by setting border="0" frameborder="no" in the frameset tag in default.htm.
+
+            set frameborder=No
+            
+*/ 
+/*  This file can also contain any custom stylesheet file contents used in earlier releases of the skin
+*/
+
+/* define Acorn Olive theme variables */
+:root {
+	--bg:		#EEF1F2;					/* background-color */
+	--fg:		#003000;					/* foreground color */	
+	--hfg:		#13484D;					/* heading foreground color */
+	--hbg:		#83AEB8;					/* heading background color */
+	--gbg:		#83AEB8;					/* gno-heading background-color */
+	--a:		#70761B;					/* a link */
+	--ava:		#70761B;					/* a visited active */
+	--ah:		#13484D;					/* a hover */
+	--fsz:		0.830rem;					/* font-size */
+	--h2fsz:	1.25rem;					/* h2 font-size */
+	--h3fsz:	1.125rem;					/* h3 font-size */
+	--h4fsz:	1rem;						/* h4 font-size */
+	--h5fsz:	1rem;						/* h5 font-size */
+	--sfsz:		0.75rem;					/* small font */
+	--tfsz:		0.75rem;					/* table font size */
+	--ttlfsz:	1.2rem;						/* title font size */
+	--xsfsz:	0.664rem;					/* extra small font */
+	--fsty:		normal;						/* font-style */
+	--mlabg:	#13484D;					/* #menu li a background */
+	--mlafg:	#83AEB8;					/* #menu li a foreground */
+	--mlahfg:	#13484D;					/* #menu li span hover */
+	--mlahbg:	#C1CCCF;					/* menu li span background */
+	--ccbx:		#e2e8ea;					/* curvycorners box bg */
+	--ccbg:		#EEF1F2;					/* curvybox bg */
+	--b24:		none;						/* 24px button image */
+	--b32:		none;						/* 32px button image */
+	--tbg:		#EEF1F2;					/* table background */
+	--thbg:		#E2E8EA;					/* table heading background*/
+	--tfsz:		inherit;					/* table font size */
+	--thdbg:	#83AEB8;					/* themed background*/
+	--thdfg:	#13484D;					/* themed forekground*/
+}
+/* AcornTeal by HarryCaper 2012.08.30 
+
+body {
+	background: var(--bg) none;
+	font-size: 0.875em;
+}
+body.gno-heading {
+	background-color: var(--hbg);
+	margin: 0px;
+}
+body.gno-index {
+	margin: 0px;
+}
+body.gno-detail {
+	margin-left:0px;
+	padding-left:0px;
+}
+body.gno-popup {
+}
+frame {
+	border: 40px;
+}
+img.button32,img.button24,img.control24,img.toggle24 {
+	background:none;
+}
+table{
+	font-size: 0.75em;
+	background-color:#EEF1F2;
+}
+tr td{
+	background-color:#EEF1F2;
+}
+th{
+	background-color:#E2E8EA;
+}
+h2 {
+	color: #13484D;
+	font-size: 1.25em;
+}
+h3 {
+	color: #13484D;
+	font-size: 1.125em;
+}
+h4 {
+	color: #13484D;
+	font-size: 1em;
+}
+a:link {
+	color: #70761B;
+}
+a:visited {
+	color: #70761B;
+}
+a:active {
+	color: #70761B;
+}
+a:hover {
+	color: #13484D;
+}
+#menu {
+	list-style:none;
+	text-align:center;
+}
+#menu li {
+	display:inline;
+	margin:0px;
+}
+#menu li a {
+	display:inline-block;
+	height:30px;
+	line-height:30px;
+	padding:0px 10px;
+	float:center;
+	background:#13484D;
+	color:#83AEB8;
+	text-decoration:none;
+	font-weight:normal;
+	border-top: 3px solid #83AEB8;
+	border-bottom: 1px solid transparent;
+	border-left: 0px solid transparent;
+	border-right: 0px solid transparent;
+}
+#menu li a:hover {
+	background: #C1CCCF url(images/arrow.gif) no-repeat center bottom;
+	color:#13484D;
+}
+#menu li a:active, a:focus {
+	outline-style: none;
+	-moz-outline-style:none;
+}
+.subhead {
+	color: #13484D;
+}
+.citation {
+	margin: 0px;
+	padding: 0px;
+	border:none;
+	font-size: 0.750em;
+	background: none;
+}
+.citationpic {
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	border:none;
+	font-size: 0.750em;
+	border-color:none;
+	background: none;
+}
+.infoWindow {
+	font-size: 0.750em;
+}
+.footnote {
+	font-size: 0.750em;
+	font-style: normal;
+}
+.langtoggle {
+	font-size: 0.75em;
+}
+.std {
+	font-size:1em;
+}
+.themed {
+	background-color: #83AEB8;
+	color:#13484D;
+}
+.timeline {
+	font-size: 0.750em;
+}
+.tiny {
+	font-size: 2px;
+}
+.curvycorners_box {
+	background: #e2e8ea;
+	border-radius: 5px;
+	padding: 10px;
+}
+.curvyboxbackground{
+	background:#EEF1F2;
+	padding: 8px;
+}
+*/
+body {
+	height: 100%;
+	color: var(--fg);
+	background-color: var(--bg);
+	font-size: var(--fsz, 0.830rem);
+	font-style:var(--fsty,normal);
+	font-family: Arial, Helvetica;
+	line-height: 1.3;
+	width:calc(100vw - 1.2rem);
+	
+}
+body.gno-heading {
+	background-color:var(--gbg);
+	margin: 0rem;
+}
+body.gno-index {
+	margin: 0rem;
+	overflow-x:hidden;
+}
+body.gno-detail {
+	margin:0rem;
+	padding:0rem;
+}
+sub {
+	line-height: 0;
+}
+svg {
+	overflow: hidden;
+}
+table {
+	font-size: var(--tfsz);
+	empty-cells:show;
+	background-color:var(--tbg);
+}
+th {
+	background-color:var(--thbg);
+}
+h2 {
+	color: var(--hfg);
+	font-size: var(--h2fsz);
+}
+h3 {
+	color: var(--hfg);
+	font-size: var(--h3fsz);
+}
+h3.familyheading {
+	font-size: var(--h3fsz);
+}
+/* reduce if you want family heading smaller than individual heading */
+h4 {
+	color: var(--hfg);
+	font-size: var(--h4fsz);
+}
+h5 {
+	color: var(--hfg);
+	font-size: var(--h5fsz);
+	font-weight:500;
+}
+h6 {
+	color: var(--hfg);
+	display: inline;
+}
+a:link {
+	color: var(--a);
+	text-decoration: none;
+}
+a:visited {
+	color: var(--ava);
+	text-decoration: none;
+}
+a:active {
+	color: var(--ava);
+	text-decoration: none;
+}
+a:hover {
+	color: var(--ah);
+	text-decoration: underline;
+}
+a:link img {
+	border-style:none;
+	border-width:0rem;
+}
+a:visited img {
+	border-style:none;
+	border-width:0rem;
+}
+a:active img {
+	border-style:none;
+	border-width:0rem;
+}
+a:hover img {
+	border-style:none;
+	border-width:0rem;
+}
+a:focus img {
+	border-style:none;
+	border-width:0rem;
+}
+svg a:hover {
+	text-decoration: none
+}
+.bold {
+	font-weight: bold;
+}
+.boldu {
+	font-weight: bold;
+	text-decoration: underline;
+}
+img.bottom {
+	vertical-align:text-bottom;
+}
+img.top {
+	vertical-align:text-top;
+}
+ul {
+	margin-top:0.125rem;
+	margin-bottom:0.125rem;
+	margin-left:0rem;
+	padding:0rem;
+}
+ul li {
+	margin:0rem;
+	padding:0rem;
+}
+.aligncenter {
+	text-align:center;
+}
+.alignc {
+	text-align:center;
+}
+.alignright {
+	text-align:right;
+}
+.alignr {
+	text-align:right;
+}
+.alignmiddle {
+	vertical-align:middle;
+}
+.avoidbreak {
+	page-break-inside: avoid;
+}
+.boxupper {
+	border-left:0.125rem solid silver;
+	border-top:0.125rem solid silver;
+	border-right:0.125rem solid silver;
+	padding: 0.3125rem;
+}
+.boxlower {
+	white-space: nowrap;
+	overflow-y: auto;
+	border-left:0.125rem solid silver;
+	border-bottom:0.125rem solid silver;
+	border-right:0.125rem solid silver;
+	padding: 0.3125rem;
+}
+.noboxlower {
+	white-space: nowrap;
+	overflow-y: auto;
+	border-left:0rem;
+	border-bottom:0rem;
+	border-right:0rem;
+	padding: 0rem;
+}
+.button32 {
+	width:2rem;
+	height:2rem;
+	border-style:none;
+	border-width:0rem;
+	cursor:pointer;
+	background:var(--b32);
+}
+.button24 {
+	width:1.5rem;
+	height:1.5rem;
+	border-style:none;
+	border-width:0rem;
+	cursor:pointer;
+	background:var(--b24);
+	text-align:middle;
+}
+.buttontoc {
+	clear:left;
+	float:left;
+	margin-right: 0.3125rem;
+	margin-top:0.3125rem;
+	cursor:pointer;
+}
+.buttontoc2 {
+	clear:right;
+	float:right;
+	margin-left: 0.625rem;
+	cursor:pointer;
+}
+.caption {
+	font-size: --sfsz;
+}
+.cover {
+	text-align:center;
+	vertical-align: middle;
+}
+.cover .title{
+	height:100%
+}
+.cover table {
+	width:100%;
+	height:100%;
+}
+/* PDF cover image, centered using known height and width */
+.cover img {
+	margin-top: 400px;
+	margin-bottom: 400px;
+	width:0px;
+	height:0px;
+}
+.childrenindent {
+	margin-left: 1rem;
+}
+/* commented out 2023.04.01 by Ron
+.citation {
+	margin: 0.3125rem;
+	padding: 0.3125rem;
+	border:0.063rem solid black;
+	font-size: --sfsz;
+	background: white;
+}
+.citationpic {
+	margin: 0.3125rem 17rem 0.3125rem 0.3125rem;
+	padding: 0.3125rem;
+	border:0.063rem solid black;
+	font-size: --sfsz;
+	border-color:black;
+	background: white;
+}
+end of commented out section */
+/* above section replaced by */
+.citation {
+	margin: 0rem;
+	padding: 0rem;
+	border:none;
+	font-size: --sfsz;
+	background: none;
+}
+.citationpic {
+	margin: 0rem 0rem 0rem 0rem;
+	padding: 0rem;
+	border:none;
+	font-size: --sfsz;
+	border-color:none;
+	background: none;
+}
+/* end of replacement */
+.clear {
+	clear: both;
+}
+.clearright {
+	clear: right;
+}
+.clearleft {
+	clear: left;
+}
+.control24 {
+	width:1.5rem;
+	height:1.5rem;
+	border-style:none;
+	border-width:0rem;
+	cursor:pointer;
+	background:var(--c32);
+	text-align:middle;
+}
+.customtagtable td,th {
+	border:1px inset var(--fg);
+	padding:0rem 0.3125rem 0rem 0.3125rem;
+}
+
+.floatright {
+	clear: right;
+	float: right;
+}
+.floatleft {
+	clear:left;
+	float:left;
+}
+.LocationMap {
+	text-align:center;
+	width:98%;
+	height:98%;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+.help b {
+	font-size:var(--h5fsz);
+	margin-left:1rem;
+}
+.hide {
+	display: none;
+}
+.icon {
+	width:1rem;
+	height:1rem;
+	border:0rem;
+}
+.iconsmall {
+	vertical-align:middle;
+	width:0.75rem;
+	height:0.75rem;
+	border:0rem;
+}
+.indent {
+	text-indent: 1.25rem;
+}
+.infoWindow {
+	text-align: left;
+	font-size: --xsfsz;
+}
+.infoScroll {
+	height:150px;
+	overflow:auto;
+}
+.inline {
+	display: inline;
+}1.875
+.inset {
+	margin: 0.75rem 0.5rem 0.75rem 0.5rem;
+}
+.footnote {
+	font-size: --sfsz;
+}
+.langtoggle {
+	color: var(--hg);
+	text-decoration: underline;
+	font-size: --xsfsz;
+}
+.Landscape {
+	width:1150px;
+	height:800px;
+}
+.menuarea {
+	display:flex;
+	padding:0.2rem 0.5rem 0rem 0.5rem;
+}
+.menuitems {
+	flex-basis:auto;
+	flex-shrink:0;
+}
+.namehighlight {
+	text-decoration: underline;
+}
+.nobr {
+	white-space: nowrap;
+}
+.note {
+	font-size: --fsz;
+	margin-left0.625rem !important;
+}
+.note li.xT-h {
+	font-weight:bold;
+}
+.note ul.xT-n {
+	font-weight:normal;
+}
+.nowrap {
+	white-space: nowrap;
+}
+.std {
+	font-size: --fsz;
+	font-style:normal;
+	margin-left:0rem;
+}
+.page-break{
+	display: none;
+}
+.pic {
+	border-style: outset;
+	padding: 0.125rem;
+	cursor:pointer;
+	text-align:left;
+}
+.picright {
+	border-style: outset;
+	padding: 0.125rem;
+	cursor:pointer;
+	text-align:left;
+}
+.picleft {
+	border-style: outset;
+	padding: 0.125rem;
+	cursor:pointer;
+	float:left;
+}
+.popup {
+	text-align:center;
+}
+.Portrait {
+	width:800px;
+	height:1150px;
+}
+.scrolly {
+	overflow-y:scroll;
+}
+.show {
+	display: inline;
+}
+.slidemenu {display:inline-block;}
+.slidemenu ul {margin:-0.125rem 0rem 0rem 0rem; padding:0;list-style:none;text-align:left;flex-Basis:100%}
+.slidemenu ul li {margin:0.3125rem;display:block;padding:0rem 1.25rem 0rem 0.625rem;display:none;}
+.slidemenu ul li a { height:1.875rem; line-height:2.188rem; padding:0rem 0.3125rem;vertical-align:middle; color:var(--mlafg);text-decoration:none; font-weight:normal; display:flex;}
+.slidemenu ul li a:hover span {background-color:var(--mlahbg); color:var(--mlahfg);}
+.slidemenu ul li a:active, a:focus { outline-style: none; -moz-outline-style:none; }
+.slidemenu ul li img {vertical-align: middle;}
+.slidemenu ul li span {background-color:var(--mlabg); color: var(--mlafg);margin-left:1.875rem; flex-basis:100%; font-size:1.2em; padding:0rem 0.625rem 0rem 0.625rem;border-radius:0.75rem;}
+.small {
+	font-size: --sfsz;
+}
+.subhead {
+	color: var(--hbg);
+}
+
+.svgwrapper {
+	margin: 1rem;
+	border: 0.125rem;
+	border-color: black;
+}
+.table1 td {
+	vertical-align:top;
+}
+table.photo {
+	border:0;
+}
+.timeline {
+	font-size: --sfsz;
+}
+.themed {
+	background-color:var(--thdbg,--gbg);
+	color:var(--thdfg,--fg);
+}
+.banner {
+	background: url(images/banner.jpg?63398,54) repeat-x left;
+}
+.title {
+	font-size: var(--ttlfsz);
+	font-weight:bold;
+	text-align: center;
+	vertical-align: middle;
+	line-height:1.875rem;
+	margin:0px 0.625rem 0.5rem 0.625rem;
+}
+.title_centre {
+	display:inline;
+	flex-basis:100%;
+	;
+}
+.title-left {
+	display:none;
+	margin:0rem 0.625rem 0rem 0.625rem;
+}
+.title-right {
+	display:inline; flex-basis:100%;
+	margin:0rem 0.625rem 0rem 0.625rem;
+}
+.title_heading {
+	margin:0.063rem;
+	padding: 0.5rem;
+	visibility:visible;
+}
+.title_top {
+	display:none;
+}
+.title_bottom {
+	display:none;
+}
+.title_home {
+	display:none;
+}
+#menu {
+	margin:-0.125rem 0rem 0rem 0rem;
+	padding:0;
+	list-style:none;
+	text-align:left;
+	flex-Basis:100%
+}
+#menu li {
+	margin:auto;
+	display:block;
+}
+#menu li a {
+	height:1.875rem;
+	line-height:1.875rem;
+	padding:0rem 0.3125rem;
+	vertical-align:middle;
+	background: val(--mlabg);
+	color:val(--mlafg);
+	text-decoration:none;
+	font-weight:normal;
+	border-top: 0.188rem solid val(--mlafg);
+	border-bottom: 0.063rem solid transparent;
+	border-left: 0rem solid transparent;
+	border-right: 0rem solid transparent;
+}
+#menu li a:hover {
+	background: val(--mlabg) url(images/arrow.gif) no-repeat center bottom;
+	color:--mlah;
+}
+#menu li a:active, a:focus {
+	outline-style: none;
+	-moz-outline-style:none;
+}
+.toggle24 {
+	width:1.5rem;
+	height:1.5rem;
+	border-style:none;
+	border-width:0rem;
+	cursor:pointer;
+	background:var(--t32);
+	text-align:middle;
+}
+.widthlarge {
+	width: 250px;
+}
+.widthpaddedsmall {
+	width: 125px;
+}
+.widthpaddedlarge {
+	width: 275px;
+}
+.widthsmall {
+	width: 100px;
+}
+.chartblock {
+	line-height: 0.625rem;
+	white-space: nowrap;
+	width:95%;
+	direction:ltr;
+}
+.charttext {
+	display: inline;
+	margin: 0rem;
+	border: none;
+	padding: 0rem;
+	position: relative;
+	left: -0.188rem;
+	top: -0.313re;
+	padding: 0.063rem 0.3125rem;
+}
+.chartbox {
+	display: inline;
+	margin: 0rem;
+	border: none;
+	padding: 0rem;
+	position: relative;
+	top: -0.5rem;
+	;
+	background: #666;
+	line-height: 0.9rem
+}
+.chartdates {
+	display: inline;
+	margin: 0rem;
+	border: none;
+	padding: 0rem;
+	position: relative;
+	top: -0.625rem;
+}
+.chart img {
+	margin: 0rem;
+	border: 0rem;
+	padding: 0rem;
+	vertical-align: middle;
+}
+.m {
+	background: LavenderBlush;
+}
+.f {
+	background: LightCyan;
+}
+.iM {
+	background: LightBlue;
+}
+.iF {
+	background: LightPink;
+}
+.iP {
+	background: green;
+}
+.cage {
+	padding: 0.625rem;
+}
+.curvycorners_box {
+	background: var(--ccbx);
+	padding: 0.625rem;
+	border-radius: 0.3125rem;
+}
+.curvycorners_content {
+	padding0.625rem;
+}
+.curvyboxbackground{
+	padding:0.3125rem;
+	background:var(--ccbg);
+}
+/* see http://www.positioniseverything.net/easyclearing.html for an explanation of the following */
+.clearfix:after {
+	content: ".";
+	display:block;
+	height: 0rem;
+	clear: both;
+	visibility: hidden;
+}
+.clearfix {
+	display: -moz-inline-block;
+}
+/* Hides from IE-mac \*/
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display:block;
+}
+/* End hide from IE-mac */
+/* end clearfix */
+/* FancyBox: Override to display navigation arrows permanently and move them outside the image area */
+#fancybox-left-ico, #fancybox-left:hover span {
+	left: -1.25rem;
+}
+#fancybox-right-ico, #fancybox-right:hover span {
+	right: -1.25rem;
+	left: auto;
+}
+/*Explorer Tree 1.4
+=================
+by Andrew Gregory <andrew@scss.com.au>http://www.scss.com.au/family/andrew/webdesign/explorertree/
+
+This work is licensed under the Creative Commons Attribution License. To view acopy of this license, visit http://creativecommons.org/licenses/by/1.0/ or senda letter to Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305,USA
+
+.+ Minor amendment by Ron to add list images, cursor styling & 2nd set of images*/
+
+/* Get the bullets inside their LI's, so they're clickable. */
+ul.xT, ul.xT ul, ul.xT li {
+	margin: 0rem;
+	padding: 0rem;
+	text-indent:0rem;
+}
+ul.xT li {
+	list-style-position: inside;
+	cursor: pointer;
+}
+ul.xT ul {
+	padding-left: 0.875rem;
+}
+/* sublist indentation */
+ul.xT ul.xT-h, ul.xT ul.xT-n {
+	padding-left: 1.313rem;
+}
+/* sublist indentation V="2013.07.30±" */
+/* Set the bullet images */
+ul.xT li {
+	list-style-image: url(images/space.gif);
+}
+ul.xT li.xT-i5 {
+	padding-left:0.3125rem;
+}
+ul.xT li.xT-o {
+	list-style-image: url("images/arrow.hide.gif");
+}
+ul.xT li.xT-c {
+	list-style-image: url("images/arrow.show.gif");
+}
+ul.xT li.xT2-o {
+	list-style-position: inside;
+	list-style-image: url("images/arrow2.hide.gif");
+}
+ul.xT li.xT2-c {
+	list-style-position: inside;
+	list-style-image: url("images/arrow2.show.gif");
+}
+ul.xT li.xT3-o {
+	list-style-position: inside;
+	list-style-image: url("images/arrow3.hide.gif");
+}
+ul.xT li.xT3-c {
+	list-style-position: inside;
+	list-style-image: url("images/arrow3.show.gif");
+}
+ul.xT li.xT-b {
+	list-style-image: url("images/space.gif");
+}
+ul.xT li.xT-bi {
+	list-style-image: url("images/space.gif");
+	padding-left0.625rem;
+}
+/* Actually show and hide sublists */
+ul.xT li.xT-o ul, ul.xT li.xT2-o ul, ul.xT li.xT3-o ul {
+	display: block;
+}
+ul.xT li.xT-c ul, ul.xT li.xT2-c ul, ul.xT li.xT3-c ul {
+	display: none;
+}
+ul.xT ul.xT-n li.xT-n {
+	cursor: default;
+}
+ul.XT li.xT-h {
+	color: var(--hg);
+}
+/* Override fancybox css to display navigation arrows permanently and move them outside the image area */
+#fancybox-left-ico, #fancybox-left:hover span {
+	left: -1.25rem;
+}
+#fancybox-right-ico, #fancybox-right:hover span {
+	right: -1.25rem;
+	left: auto;
+}

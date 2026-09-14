@@ -1,0 +1,5778 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GenoPro>
+  <Software>GenoPro
+    <Name>GenoPro® - Picture Your Family Tree!(TM)</Name>
+    <Version>2.5.4.1</Version>
+    <Address>http://www.genopro.com</Address>
+  </Software>
+  <Date>14 Sep 2026</Date>
+
+<Global>
+  <Name>
+    <Full Format="%T %F (%N) %M %L (%L2) %S"/>
+    <Display Format="%F %M %L (%L2)" Lines="3"/>
+  </Name>
+  <Font>Arial</Font>
+  <Display>
+    <Tag>YoB_YoD</Tag>
+    <Colors>
+      <Gender Symbol="#000000" Text="#000000" Fill="#FFFFFF">
+        <Fill>
+          <Top Left="#FF0000" Right="#FF0000"/>
+          <Bottom Left="#FF0000" Right="#FF0000"/>
+        </Fill>
+      </Gender>
+      <Border Outline="#000080">
+        <Fill>#FFFF80</Fill>
+      </Border>
+      <Label Top="#000000" Bottom="#000000">
+        <Fill Top="#FFFFFF" Bottom="#FFFFFF"/>
+      </Label>
+    </Colors>
+  </Display>
+  <Document>
+    <Title>JL TANCERMAN - Klochendler family tree</Title>
+    <Description>&#10;This is the KLOCHENDLER portion of my family tree. It was initially compiled on paper in 1961 with my father Jacques and grandmother Léa Tancerman, and grand-uncle David Klochendler, and I&#39;ve erratically maintained it through the past 45 years or so, with the help of cousins over 2 continents. It is however quite incomplete, as the family has branched out exponentially through 4 or even 5 generations since then, and I would deeply appreciate all relevant input regarding family members past and present: names, dates of birth, etc. Hope you enjoy this genealogy&#32; in its present state. &#10;&#10;Note: click the Menu symbol at top left (3 horizontal bars) and choose the genealogy &quot;view&quot; you want : the graphical TREE view is best suited with a computer or tablet, other views are ok with a phone. You can zoom, pan, drag the graphical tree for exploring, and click all items (names, links) for more details. Enjoy ! &#10;&#10;Your comments are welcome, as always.&#10;Jean-Louis Tancerman&#10;jltancerman@outlook.fr &#10;</Description>
+  </Document>
+  <ActiveGenoMap>JLT-Klochendler tree</ActiveGenoMap>
+</Global>
+<GenoMaps>
+<GenoMap Name="JLT-Klochendler tree" Zoom="50" Position="-2954,-604" BoundaryRect="-6994,166,1085,-1375">
+  <Selection>ind00319</Selection>
+</GenoMap>
+</GenoMaps>
+<Individuals>
+<Individual ID="ind00001">
+  <Name>(ancestor) TANCERMAN
+    <Display>(ancestor) TANCERMAN</Display>
+    <First>(ancestor)</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5260,166,-5180,93">-5220,140</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00002">
+  <Position BoundaryRect="-5126,166,-5074,114">-5100,140</Position>
+  <Name>
+    <Display Format="%F %L %L2"/>
+  </Name>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00003">
+  <Name>Samson TANCERMAN
+    <Display Format="%F %L %L2">Samson TANCERMAN</Display>
+    <First>Samson</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5440,22,-5360,-57">-5400,-10</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>1850</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00004">
+  <Name>Joseph TANCERMAN
+    <Display Format="%F %L %L2">Joseph TANCERMAN</Display>
+    <First>Joseph</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5200,22,-5120,-57">-5160,-10</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>1863</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00005">
+  <Name>Bernard (Berek) TANCERMAN
+    <Display Format="%F %L %L2">Bernard (Berek) TANCERMAN</Display>
+    <First>Bernard (Berek)</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-4970,16,-4890,-71">-4930,-10</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00006">
+  <Name>Isaac KLOCHENDLER
+    <Display Format="%F %L %L2">Isaac KLOCHENDLER</Display>
+    <First>Isaac</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-2465,16,-2375,-57">-2420,-10</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00007">
+  <Name>Rosa TENNENBAUM&#32; ((?))
+    <Display Format="%F %L %L2">Rosa TENNENBAUM&#32; (?)</Display>
+    <First>Rosa</First>
+    <Last>TENNENBAUM&#32;</Last>
+    <Last2>(?)</Last2>
+  </Name>
+  <Position BoundaryRect="-1143,16,-1058,-71">-1100,-10</Position>
+  <Gender>F</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00008">
+  <Name>Hermann KLOCHENDLER
+    <Display Format="%F %L %L2">Hermann KLOCHENDLER</Display>
+    <First>Hermann</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-4165,-124,-4075,-197">-4120,-150</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00010">
+  <Name>Mania KLOCHENDLER
+    <Display Format="%F %L %L2">Mania KLOCHENDLER</Display>
+    <First>Mania</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-2015,-138,-1925,-217">-1970,-170</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>1903</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>1988</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00011">
+  <Name>Lazare KLOCHENDLER
+    <Display Format="%F %L %L2">Lazare KLOCHENDLER</Display>
+    <First>Lazare</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-1615,-138,-1525,-217">-1570,-170</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>29 Feb 1904</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>29 Feb 1984</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00012">
+  <Name>Charna KLOCHENDLER
+    <Display Format="%F %L %L2">Charna KLOCHENDLER</Display>
+    <First>Charna</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-1285,-144,-1195,-217">-1240,-170</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00013">
+  <Name>Feiga KLOCHENDLER
+    <Display Format="%F %L %L2">Feiga KLOCHENDLER</Display>
+    <First>Feiga</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-645,-138,-555,-217">-600,-170</Position>
+  <Gender>F</Gender>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>1984</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00014">
+  <Name>Andjé
+    <Display Format="%F %L %L2">Andjé</Display>
+    <First>Andjé</First>
+  </Name>
+  <Position BoundaryRect="-1474,-138,-1406,-203">-1440,-170</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>13 May 1913</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>9 Jan 1985</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00015">
+  <Name>Paulette KLOCHENDLER
+    <Display Format="%F %L %L2">Paulette KLOCHENDLER</Display>
+    <First>Paulette</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-1675,-258,-1585,-337">-1630,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>17 Oct 1936</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>Jun 2011</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00016">
+  <Name>André KLOCHENDLER
+    <Display Format="%F %L %L2">André KLOCHENDLER</Display>
+    <First>André</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-1465,-258,-1375,-337">-1420,-290</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>20 May 1938</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00017">
+  <Name>Evelyne
+    <Display Format="%F %L %L2">Evelyne</Display>
+    <First>Evelyne</First>
+  </Name>
+  <Position BoundaryRect="-1354,-258,-1286,-323">-1320,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>14 Dec 1938</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00018">
+  <Name>Claude FAJGELES
+    <Display Format="%F %L %L2">Claude FAJGELES</Display>
+    <First>Claude</First>
+    <Last>FAJGELES</Last>
+  </Name>
+  <Position BoundaryRect="-1584,-264,-1516,-337">-1550,-290</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00019">
+  <Name>Muriel FAJGELES
+    <Display Format="%F %L %L2">Muriel FAJGELES</Display>
+    <First>Muriel</First>
+    <Last>FAJGELES</Last>
+  </Name>
+  <Position BoundaryRect="-1619,-394,-1551,-467">-1585,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00020">
+  <Name>Véronique KLOCHENDLER
+    <Display Format="%F %L %L2">Véronique KLOCHENDLER</Display>
+    <First>Véronique</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-1395,-388,-1305,-467">-1350,-420</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>3 Jan 1965</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00021">
+  <Name>Philippe KLOCHENDLER
+    <Display Format="%F %L %L2">Philippe KLOCHENDLER</Display>
+    <First>Philippe</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-1555,-388,-1465,-467">-1510,-420</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>24 Jan 1963</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00022">
+  <Name>Léon PODWOJNY
+    <Display Format="%F %L %L2">Léon PODWOJNY</Display>
+    <First>Léon</First>
+    <Last>PODWOJNY</Last>
+  </Name>
+  <Position BoundaryRect="-1868,-138,-1793,-217">-1830,-170</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>1901</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>1942</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00023">
+  <Name>Ignace PODWOJNY
+    <Display Format="%F %L %L2">Ignace PODWOJNY</Display>
+    <First>Ignace</First>
+    <Last>PODWOJNY</Last>
+  </Name>
+  <Position BoundaryRect="-1848,-258,-1773,-337">-1810,-290</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>16 Nov 1927</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>1968</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00024">
+  <Name Format="Custom">Roma PODWOJNA
+    <Display Format="%F %L %L2">Roma PODWOJNA</Display>
+    <First>Roma</First>
+    <Last>PODWOJNA</Last>
+  </Name>
+  <Position BoundaryRect="-2038,-258,-1963,-337">-2000,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>1 Jan 1926</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>9 Aug 2014</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00025">
+  <Name>Germaine ROZALSKI
+    <Display Format="%F %L %L2">Germaine ROZALSKI</Display>
+    <First>Germaine</First>
+    <Last>ROZALSKI</Last>
+  </Name>
+  <Position BoundaryRect="-1744,-258,-1676,-337">-1710,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>3 Aug 1930</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00026">
+  <Name>Rose (LAURENS) PODWOJNY
+    <Display Format="%F %L %L2">Rose (LAURENS) PODWOJNY</Display>
+    <First>Rose (LAURENS)</First>
+    <Last>PODWOJNY</Last>
+  </Name>
+  <Position BoundaryRect="-1823,-388,-1748,-481">-1785,-420</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>4 Mar 1951</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00027">
+  <Name>Laurent PODWOJNY
+    <Display Format="%F %L %L2">Laurent PODWOJNY</Display>
+    <First>Laurent</First>
+    <Last>PODWOJNY</Last>
+  </Name>
+  <Position BoundaryRect="-1758,-388,-1683,-467">-1720,-420</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>1 May 1962</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00028">
+  <Name>Mosze (Mischa) BAREMBAUM
+    <Display Format="%F %L %L2">Mosze (Mischa) BAREMBAUM</Display>
+    <First>Mosze (Mischa)</First>
+    <Last>BAREMBAUM</Last>
+  </Name>
+  <Position BoundaryRect="-1926,-258,-1844,-351">-1885,-290</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>15 May 1924</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>Feb 2012</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00029">
+  <Name>Lucienne BAREMBAUM
+    <Display>Lucienne BAREMBAUM</Display>
+    <First>Lucienne</First>
+    <Last>BAREMBAUM</Last>
+  </Name>
+  <Position BoundaryRect="-2081,-388,-1999,-467">-2040,-420</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>25 Oct 1945</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00030">
+  <Name>Gérard BAREMBAUM
+    <Display Format="%F %L %L2">Gérard BAREMBAUM</Display>
+    <First>Gérard</First>
+    <Last>BAREMBAUM</Last>
+  </Name>
+  <Position BoundaryRect="-1941,-388,-1859,-467">-1900,-420</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>11 Aug 1956</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00031">
+  <Name>Alain NITEMBERG
+    <Display Format="%F %L %L2">Alain NITEMBERG</Display>
+    <First>Alain</First>
+    <Last>NITEMBERG</Last>
+  </Name>
+  <Position BoundaryRect="-2147,-394,-2074,-467">-2110,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00032">
+  <Name>Valérie NITEMBERG
+    <Display Format="%F %L %L2">Valérie NITEMBERG</Display>
+    <First>Valérie</First>
+    <Last>NITEMBERG</Last>
+  </Name>
+  <Position BoundaryRect="-2192,-538,-2119,-617">-2155,-570</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>10 Jun 1968</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00033">
+  <Name>Itzhak KUDELSKI
+    <Display Format="%F %L %L2">Itzhak KUDELSKI</Display>
+    <First>Itzhak</First>
+    <Last>KUDELSKI</Last>
+  </Name>
+  <Position BoundaryRect="-434,-138,-366,-217">-400,-170</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>1992</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00034">
+  <Name>Rose KUDEL
+    <Display Format="%F %L %L2">Rose KUDEL</Display>
+    <First>Rose</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="-1116,-264,-1064,-337">-1090,-290</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00035">
+  <Name>Mania KUDEL
+    <Display Format="%F %L %L2">Mania KUDEL</Display>
+    <First>Mania</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="-736,-264,-684,-337">-710,-290</Position>
+  <Gender>F</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00036">
+  <Name>Charles KUDEL
+    <Display Format="%F %L %L2">Charles KUDEL</Display>
+    <First>Charles</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="-477,-264,-424,-337">-450,-290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00037">
+  <Name>Odette KUDEL
+    <Display Format="%F %L %L2">Odette KUDEL</Display>
+    <First>Odette</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="-301,-269,-249,-342">-275,-295</Position>
+  <Gender>F</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00038">
+  <Name>Henry KUDEL
+    <Display Format="%F %L %L2">Henry KUDEL</Display>
+    <First>Henry</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="-76,-264,-24,-337">-50,-290</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00039">
+  <Name>Michael KUDEL
+    <Display Format="%F %L %L2">Michael KUDEL</Display>
+    <First>Michael</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="86,-258,154,-337">120,-290</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>24 Oct 1945</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00040">
+  <Name>Abe SCHARF
+    <Display Format="%F %L %L2">Abe SCHARF</Display>
+    <First>Abe</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-1029,-264,-971,-337">-1000,-290</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00041">
+  <Name>Susan SCHARF
+    <Display Format="%F %L %L2">Susan SCHARF</Display>
+    <First>Susan</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-1189,-394,-1131,-467">-1160,-420</Position>
+  <Gender>F</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00042">
+  <Name>Martin SCHARF
+    <Display Format="%F %L %L2">Martin SCHARF</Display>
+    <First>Martin</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-1109,-394,-1051,-467">-1080,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00043">
+  <Name>Richard SCHARF
+    <Display Format="%F %L %L2">Richard SCHARF</Display>
+    <First>Richard</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-939,-394,-881,-467">-910,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00044">
+  <Name>Melody
+    <Display Format="%F %L %L2">Melody</Display>
+    <First>Melody</First>
+  </Name>
+  <Position BoundaryRect="-1036,-394,-984,-453">-1010,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00045">
+  <Name>Robert SCHARF
+    <Display Format="%F %L %L2">Robert SCHARF</Display>
+    <First>Robert</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-1164,-544,-1106,-617">-1135,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00046">
+  <Name>Sandra SCHARF
+    <Display Format="%F %L %L2">Sandra SCHARF</Display>
+    <First>Sandra</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-1114,-544,-1056,-617">-1085,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00047">
+  <Name>Harry LEFKOWITZ
+    <Display Format="%F %L %L2">Harry LEFKOWITZ</Display>
+    <First>Harry</First>
+    <Last>LEFKOWITZ</Last>
+  </Name>
+  <Position BoundaryRect="-657,-264,-583,-337">-620,-290</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00048">
+  <Name>Jack LEFKOWITZ
+    <Display Format="%F %L %L2">Jack LEFKOWITZ</Display>
+    <First>Jack</First>
+    <Last>LEFKOWITZ</Last>
+  </Name>
+  <Position BoundaryRect="-802,-394,-728,-467">-765,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00049">
+  <Name>Albert LEFKOWITZ
+    <Display Format="%F %L %L2">Albert LEFKOWITZ</Display>
+    <First>Albert</First>
+    <Last>LEFKOWITZ</Last>
+  </Name>
+  <Position BoundaryRect="-712,-394,-638,-467">-675,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00050">
+  <Name>Murray LEFKOWITZ
+    <Display Format="%F %L %L2">Murray LEFKOWITZ</Display>
+    <First>Murray</First>
+    <Last>LEFKOWITZ</Last>
+  </Name>
+  <Position BoundaryRect="-672,-394,-598,-467">-635,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00051">
+  <Name>Jay LEFKOWITZ
+    <Display Format="%F %L %L2">Jay LEFKOWITZ</Display>
+    <First>Jay</First>
+    <Last>LEFKOWITZ</Last>
+  </Name>
+  <Position BoundaryRect="-572,-394,-498,-467">-535,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00052">
+  <Name>Zhiva
+    <Display Format="%F %L %L2">Zhiva</Display>
+    <First>Zhiva</First>
+  </Name>
+  <Position BoundaryRect="-746,-394,-694,-453">-720,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00053">
+  <Name>Stephen LEFKOWITZ
+    <Display Format="%F %L %L2">Stephen LEFKOWITZ</Display>
+    <First>Stephen</First>
+    <Last>LEFKOWITZ</Last>
+  </Name>
+  <Position BoundaryRect="-732,-544,-658,-617">-695,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00054">
+  <Name>Nancy
+    <Display Format="%F %L %L2">Nancy</Display>
+    <First>Nancy</First>
+  </Name>
+  <Position BoundaryRect="-611,-394,-559,-453">-585,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00055">
+  <Name>Lindsay LEFKOWITZ
+    <Display Format="%F %L %L2">Lindsay LEFKOWITZ</Display>
+    <First>Lindsay</First>
+    <Last>LEFKOWITZ</Last>
+  </Name>
+  <Position BoundaryRect="-677,-544,-603,-617">-640,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00056">
+  <Name>Claire
+    <Display Format="%F %L %L2">Claire</Display>
+    <First>Claire</First>
+  </Name>
+  <Position BoundaryRect="-396,-264,-344,-323">-370,-290</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00057">
+  <Name>Scott KUDEL
+    <Display Format="%F %L %L2">Scott KUDEL</Display>
+    <First>Scott</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="-471,-394,-419,-467">-445,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00058">
+  <Name>Beth KUDEL
+    <Display Format="%F %L %L2">Beth KUDEL</Display>
+    <First>Beth</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="-386,-394,-334,-467">-360,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00059">
+  <Name>Israel SILVERSTEIN
+    <Display Format="%F %L %L2">Israel SILVERSTEIN</Display>
+    <First>Israel</First>
+    <Last>SILVERSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-215,-264,-135,-337">-175,-290</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00060">
+  <Name>Paulette SILVERSTEIN
+    <Display Format="%F %L %L2">Paulette SILVERSTEIN</Display>
+    <First>Paulette</First>
+    <Last>SILVERSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-310,-394,-230,-467">-270,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00061">
+  <Name>Annette SILVERSTEIN
+    <Display Format="%F %L %L2">Annette SILVERSTEIN</Display>
+    <First>Annette</First>
+    <Last>SILVERSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-195,-394,-115,-467">-155,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00062">
+  <Name>David DUBOWSKI
+    <Display Format="%F %L %L2">David DUBOWSKI</Display>
+    <First>David</First>
+    <Last>DUBOWSKI</Last>
+  </Name>
+  <Position BoundaryRect="-256,-394,-185,-467">-220,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00063">
+  <Name>Barbara
+    <Display Format="%F %L %L2">Barbara</Display>
+    <First>Barbara</First>
+  </Name>
+  <Position BoundaryRect="-13,-264,42,-323">15,-290</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00064">
+  <Name>Craig KUDEL
+    <Display Format="%F %L %L2">Craig KUDEL</Display>
+    <First>Craig</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="-81,-394,-29,-467">-55,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00065">
+  <Name>Rhonda KUDEL
+    <Display Format="%F %L %L2">Rhonda KUDEL</Display>
+    <First>Rhonda</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="-17,-394,36,-467">10,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00066">
+  <Name>Beverley
+    <Display Format="%F %L %L2">Beverley</Display>
+    <First>Beverley</First>
+  </Name>
+  <Position BoundaryRect="271,-258,339,-323">305,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>7 Oct 1948</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>10 Oct 1984</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00067">
+  <Name>Ian KUDEL
+    <Display Format="%F %L %L2">Ian KUDEL</Display>
+    <First>Ian</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="91,-388,159,-467">125,-420</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>5 Jan 1971</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00068">
+  <Name>Andrea KUDEL
+    <Display Format="%F %L %L2">Andrea KUDEL</Display>
+    <First>Andrea</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="161,-388,229,-467">195,-420</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>20 Dec 1977</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00069">
+  <Name>Robert KUDEL
+    <Display Format="%F %L %L2">Robert KUDEL</Display>
+    <First>Robert</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="276,-388,344,-467">310,-420</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>16 Jan 1977</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00070">
+  <Name>(ancestor) KLOCHENDLER
+    <Display>(ancestor) KLOCHENDLER</Display>
+    <First>(ancestor)</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3745,166,-3655,93">-3700,140</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00072">
+  <Name>Tema KLOCHENDLER
+    <Display Format="%F %L %L2">Tema KLOCHENDLER</Display>
+    <First>Tema</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-4710,16,-4620,-57">-4665,-10</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00073">
+  <Name>Julius PASTERNAK
+    <Display Format="%F %L %L2">Julius PASTERNAK</Display>
+    <First>Julius</First>
+    <Last>PASTERNAK</Last>
+  </Name>
+  <Position BoundaryRect="-2494,-138,-2416,-217">-2455,-170</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>28 May 1898</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>May 1983</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00074">
+  <Name>Rose PASTERNAK
+    <Display Format="%F %L %L2">Rose PASTERNAK</Display>
+    <First>Rose</First>
+    <Last>PASTERNAK</Last>
+  </Name>
+  <Position BoundaryRect="-2934,-258,-2856,-337">-2895,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>5 Jan 1924</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>8 Jan 1999</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00075">
+  <Name>Celia PASTERNAK
+    <Display Format="%F %L %L2">Celia PASTERNAK</Display>
+    <First>Celia</First>
+    <Last>PASTERNAK</Last>
+  </Name>
+  <Position BoundaryRect="-2689,-258,-2611,-337">-2650,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>28 Jul 1926</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>Apr 2005</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00076">
+  <Name>Gertrud PASTERNAK
+    <Display Format="%F %L %L2">Gertrud PASTERNAK</Display>
+    <First>Gertrud</First>
+    <Last>PASTERNAK</Last>
+  </Name>
+  <Position BoundaryRect="-2354,-263,-2276,-342">-2315,-295</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>12 Jan 1930</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>Jan 1979</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00077">
+  <Name>Murray GOLDSTEIN
+    <Display Format="%F %L %L2">Murray GOLDSTEIN</Display>
+    <First>Murray</First>
+    <Last>GOLDSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-3072,-264,-2999,-337">-3035,-290</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00078">
+  <Name>Suzanne GOLDSTEIN
+    <Display Format="%F %L %L2">Suzanne GOLDSTEIN</Display>
+    <First>Suzanne</First>
+    <Last>GOLDSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-3092,-394,-3019,-467">-3055,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00079">
+  <Name>Andrew GOLDSTEIN
+    <Display Format="%F %L %L2">Andrew GOLDSTEIN</Display>
+    <First>Andrew</First>
+    <Last>GOLDSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-2962,-394,-2889,-467">-2925,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00080">
+  <Name>Sydney CHIPKIN
+    <Display Format="%F %L %L2">Sydney CHIPKIN</Display>
+    <First>Sydney</First>
+    <Last>CHIPKIN</Last>
+  </Name>
+  <Position BoundaryRect="-2802,-264,-2748,-337">-2775,-290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00081">
+  <Name>Mark CHIPKIN
+    <Display Format="%F %L %L2">Mark CHIPKIN</Display>
+    <First>Mark</First>
+    <Last>CHIPKIN</Last>
+  </Name>
+  <Position BoundaryRect="-2847,-394,-2793,-467">-2820,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00082">
+  <Name>Larry CHIPKIN
+    <Display Format="%F %L %L2">Larry CHIPKIN</Display>
+    <First>Larry</First>
+    <Last>CHIPKIN</Last>
+  </Name>
+  <Position BoundaryRect="-2762,-394,-2708,-467">-2735,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00083">
+  <Name>Robin CHIPKIN
+    <Display Format="%F %L %L2">Robin CHIPKIN</Display>
+    <First>Robin</First>
+    <Last>CHIPKIN</Last>
+  </Name>
+  <Position BoundaryRect="-2652,-394,-2598,-467">-2625,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00084">
+  <Name>Martin (Marty) SILVERSTEIN
+    <Display Format="%F %L %L2">Martin (Marty) SILVERSTEIN</Display>
+    <First>Martin (Marty)</First>
+    <Last>SILVERSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-2490,-264,-2410,-351">-2450,-290</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00085">
+  <Name>Elliot SILVERSTEIN
+    <Display Format="%F %L %L2">Elliot SILVERSTEIN</Display>
+    <First>Elliot</First>
+    <Last>SILVERSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-2600,-394,-2520,-467">-2560,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00086">
+  <Name>Cheryl SILVERSTEIN
+    <Display Format="%F %L %L2">Cheryl SILVERSTEIN</Display>
+    <First>Cheryl</First>
+    <Last>SILVERSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-2365,-394,-2285,-467">-2325,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00087">
+  <Name>Stuart SILVERSTEIN
+    <Display Format="%F %L %L2">Stuart SILVERSTEIN</Display>
+    <First>Stuart</First>
+    <Last>SILVERSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-2530,-394,-2450,-467">-2490,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00088">
+  <Name>Jerry PATKOFF
+    <Display Format="%F %L %L2">Jerry PATKOFF</Display>
+    <First>Jerry</First>
+    <Last>PATKOFF</Last>
+  </Name>
+  <Position BoundaryRect="-3027,-394,-2964,-467">-2995,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00089">
+  <Name>Joshua PATKOFF
+    <Display Format="%F %L %L2">Joshua PATKOFF</Display>
+    <First>Joshua</First>
+    <Last>PATKOFF</Last>
+  </Name>
+  <Position BoundaryRect="-3097,-544,-3034,-617">-3065,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00090">
+  <Name>Eva PATKOFF
+    <Display Format="%F %L %L2">Eva PATKOFF</Display>
+    <First>Eva</First>
+    <Last>PATKOFF</Last>
+  </Name>
+  <Position BoundaryRect="-3042,-544,-2979,-617">-3010,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00091">
+  <Name>Jean
+    <Display>Jean</Display>
+    <First>Jean</First>
+  </Name>
+  <Position BoundaryRect="-2891,-394,-2839,-453">-2865,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00092">
+  <Name>??? GOLDSTEIN
+    <Display Format="%F %L %L2">??? GOLDSTEIN</Display>
+    <First>???</First>
+    <Last>GOLDSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-2922,-544,-2849,-617">-2885,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00093">
+  <Name>Aaron GOLDSTEIN
+    <Display Format="%F %L %L2">Aaron GOLDSTEIN</Display>
+    <First>Aaron</First>
+    <Last>GOLDSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-2987,-544,-2914,-617">-2950,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00094">
+  <Name>Brenda
+    <Display>Brenda</Display>
+    <First>Brenda</First>
+  </Name>
+  <Position BoundaryRect="-2801,-394,-2749,-453">-2775,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00095">
+  <Name>Jason CHIPKIN
+    <Display Format="%F %L %L2">Jason CHIPKIN</Display>
+    <First>Jason</First>
+    <Last>CHIPKIN</Last>
+  </Name>
+  <Position BoundaryRect="-2847,-544,-2793,-617">-2820,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00096">
+  <Name>Jared CHIPKIN
+    <Display Format="%F %L %L2">Jared CHIPKIN</Display>
+    <First>Jared</First>
+    <Last>CHIPKIN</Last>
+  </Name>
+  <Position BoundaryRect="-2797,-544,-2743,-617">-2770,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00097">
+  <Name>Ethel (Toba) TANCERMAN
+    <Display Lines="2">Ethel (Toba) TANCERMAN</Display>
+    <First>Ethel (Toba)</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5780,-258,-5700,-337">-5740,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>10 Mar 1904</Date>
+    <Place>place00001</Place>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>11 Aug 1942</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00098">
+  <Name>Rosette KLOCHENDLER
+    <Display Format="%F %L %L2">Rosette KLOCHENDLER</Display>
+    <First>Rosette</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-5635,-964,-5545,-1037">-5590,-990</Position>
+  <Gender>F</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00099">
+  <Name>Louis (Loulou) KLOCHENDLER
+    <Display Format="%F %L %L2">Louis (Loulou) KLOCHENDLER</Display>
+    <First>Louis (Loulou)</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-4945,-958,-4855,-1051">-4900,-990</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>25 Aug 2006</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00100">
+  <Name>Suzanne KLOCHENDLER
+    <Display Format="%F %L %L2">Suzanne KLOCHENDLER</Display>
+    <First>Suzanne</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-4615,-958,-4525,-1037">-4570,-990</Position>
+  <Gender>F</Gender>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>2001</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00101">
+  <Name>Jacques KLOCHENDLER
+    <Display Format="%F %L %L2">Jacques KLOCHENDLER</Display>
+    <First>Jacques</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-4405,-964,-4315,-1037">-4360,-990</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00102">
+  <Name>Bernard KLOCHENDLER
+    <Display Format="%F %L %L2">Bernard KLOCHENDLER</Display>
+    <First>Bernard</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-4045,-958,-3955,-1037">-4000,-990</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>12 Mar 1933</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>29 Jul 1997</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00103">
+  <Name>Paulette KLOCHENDLER
+    <Display Format="%F %L %L2">Paulette KLOCHENDLER</Display>
+    <First>Paulette</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3865,-958,-3775,-1037">-3820,-990</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>24 Apr 1934</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>31 Aug 1942</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00104">
+  <Name>Albert KLOCHENDLER
+    <Display Format="%F %L %L2">Albert KLOCHENDLER</Display>
+    <First>Albert</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3765,-958,-3675,-1037">-3720,-990</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>20 Oct 1939</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>31 Aug 1942</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00105">
+  <Name>Anna KERBEL
+    <Display>Anna KERBEL</Display>
+    <First>Anna</First>
+    <Last>KERBEL</Last>
+  </Name>
+  <Position BoundaryRect="-3268,-134,-3213,-207">-3240,-160</Position>
+  <Gender>F</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00106">
+  <Name>Georges (Jojo) KLOCHENDLER
+    <Display Format="%F %L %L2">Georges (Jojo) KLOCHENDLER</Display>
+    <First>Georges (Jojo)</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3755,-258,-3665,-351">-3710,-290</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>6 Nov 1943</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00107">
+  <Name>Michel KLOCHENDLER
+    <Display Format="%F %L %L2">Michel KLOCHENDLER</Display>
+    <First>Michel</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3325,-258,-3235,-337">-3280,-290</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>13 Sep 1957</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00108">
+  <Name>Henri KLOCHENDLER
+    <Display Format="%F %L %L2">Henri KLOCHENDLER</Display>
+    <First>Henri</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3495,-258,-3405,-337">-3450,-290</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>8 Nov 1952</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00109">
+  <Name>Catherine LEGAVE
+    <Display>Catherine LEGAVE</Display>
+    <First>Catherine</First>
+    <Last>LEGAVE</Last>
+  </Name>
+  <Position BoundaryRect="-3234,-258,-3166,-337">-3200,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>31 Jan 1949</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00110">
+  <Name>Arthur KLOCHENDLER
+    <Display Format="%F %L %L2">Arthur KLOCHENDLER</Display>
+    <First>Arthur</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3295,-388,-3205,-467">-3250,-420</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>11 Feb 1991</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00111">
+  <Name>Joëlle
+    <Display>Joëlle</Display>
+    <First>Joëlle</First>
+  </Name>
+  <Position BoundaryRect="-3366,-264,-3314,-323">-3340,-290</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00112">
+  <Name>Maud KLOCHENDLER
+    <Display Format="%F %L %L2">Maud KLOCHENDLER</Display>
+    <First>Maud</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3475,-394,-3385,-467">-3430,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00113">
+  <Name>Emilie KLOCHENDLER
+    <Display Format="%F %L %L2">Emilie KLOCHENDLER</Display>
+    <First>Emilie</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3385,-394,-3295,-467">-3340,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00114">
+  <Name>Claudine BRY
+    <Display>Claudine BRY</Display>
+    <First>Claudine</First>
+    <Last>BRY</Last>
+  </Name>
+  <Position BoundaryRect="-3664,-258,-3596,-337">-3630,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>Aug 1946</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00115">
+  <Name>Laura KLOCHENDLER
+    <Display Format="%F %L %L2">Laura KLOCHENDLER</Display>
+    <First>Laura</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3635,-388,-3545,-467">-3590,-420</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>Mar 1979</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00116">
+  <Name>Julien KLOCHENDLER
+    <Display Format="%F %L %L2">Julien KLOCHENDLER</Display>
+    <First>Julien</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3805,-388,-3715,-467">-3760,-420</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>Mar 1977</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00117">
+  <Name>Héléna
+    <Display>Héléna</Display>
+    <First>Héléna</First>
+  </Name>
+  <Position BoundaryRect="-3944,-958,-3876,-1023">-3910,-990</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>31 May 1941</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00118">
+  <Name>Nathalie-Toba KLOCHENDLER
+    <Display Format="%F %L %L2" Lines="2">Nathalie-Toba KLOCHENDLER</Display>
+    <First>Nathalie-Toba</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-4045,-1108,-3955,-1187">-4000,-1140</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>5 Jun 1964</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00119">
+  <Name>Sarah KLOCHENDLER
+    <Display Format="%F %L %L2">Sarah KLOCHENDLER</Display>
+    <First>Sarah</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3955,-1108,-3865,-1187">-3910,-1140</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>21 May 1967</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00120">
+  <Name>Bernadette
+    <Display>Bernadette</Display>
+    <First>Bernadette</First>
+  </Name>
+  <Position BoundaryRect="-4315,-964,-4246,-1023">-4280,-990</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00121">
+  <Name>Pierre KLOCHENDLER
+    <Display Format="%F %L %L2">Pierre KLOCHENDLER</Display>
+    <First>Pierre</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-4405,-1114,-4315,-1187">-4360,-1140</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00122">
+  <Name>Agnès KLOCHENDLER
+    <Display Format="%F %L %L2">Agnès KLOCHENDLER</Display>
+    <First>Agnès</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-4315,-1114,-4225,-1187">-4270,-1140</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00123">
+  <Name>Matthieu SCHIFMANN
+    <Display Format="%F %L %L2">Matthieu SCHIFMANN</Display>
+    <First>Matthieu</First>
+    <Last>SCHIFMANN</Last>
+  </Name>
+  <Position BoundaryRect="-4598,-1114,-4523,-1187">-4560,-1140</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00124">
+  <Name>Guillaume SCHIFMANN
+    <Display Format="%F %L %L2">Guillaume SCHIFMANN</Display>
+    <First>Guillaume</First>
+    <Last>SCHIFMANN</Last>
+  </Name>
+  <Position BoundaryRect="-4518,-1114,-4443,-1187">-4480,-1140</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00125">
+  <Name>Philippe SCHIFMANN
+    <Display>Philippe SCHIFMANN</Display>
+    <First>Philippe</First>
+    <Last>SCHIFMANN</Last>
+  </Name>
+  <Position BoundaryRect="-4518,-964,-4443,-1037">-4480,-990</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00126">
+  <Name>Eliane
+    <Display>Eliane</Display>
+    <First>Eliane</First>
+  </Name>
+  <Position BoundaryRect="-4806,-964,-4754,-1023">-4780,-990</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00127">
+  <Name>Georges KLOCHENDLER
+    <Display Format="%F %L %L2">Georges KLOCHENDLER</Display>
+    <First>Georges</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-5065,-1124,-4975,-1197">-5020,-1150</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00128">
+  <Name>Cécile KLOCHENDLER
+    <Display Format="%F %L %L2">Cécile KLOCHENDLER</Display>
+    <First>Cécile</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-4875,-1114,-4785,-1187">-4830,-1140</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00129">
+  <Name>Dominique KLOCHENDLER
+    <Display Format="%F %L %L2">Dominique KLOCHENDLER</Display>
+    <First>Dominique</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-4695,-1114,-4605,-1187">-4650,-1140</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00131">
+  <Name>Fanny KLOCHENDLER
+    <Display>Fanny KLOCHENDLER</Display>
+    <First>Fanny</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-5015,-1258,-4925,-1337">-4970,-1290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>1977</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00132">
+  <Name>Marie POIRIER
+    <Display>Marie POIRIER</Display>
+    <First>Marie</First>
+    <Last>POIRIER</Last>
+  </Name>
+  <Position BoundaryRect="-4937,-1114,-4883,-1187">-4910,-1140</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00133">
+  <Name>Maurice FOUKS
+    <Display>Maurice FOUKS</Display>
+    <First>Maurice</First>
+    <Last>FOUKS</Last>
+  </Name>
+  <Position BoundaryRect="-5487,-964,-5433,-1037">-5460,-990</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00134">
+  <Name>Catherine FOUKS
+    <Display Format="%F %L %L2">Catherine FOUKS</Display>
+    <First>Catherine</First>
+    <Last>FOUKS</Last>
+  </Name>
+  <Position BoundaryRect="-5971,-1114,-5909,-1187">-5940,-1140</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00135">
+  <Name>Stéphane FOUKS
+    <Display Format="%F %L %L2">Stéphane FOUKS</Display>
+    <First>Stéphane</First>
+    <Last>FOUKS</Last>
+  </Name>
+  <Position BoundaryRect="-5411,-1114,-5349,-1187">-5380,-1140</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00136">
+  <Name>Véronique
+    <Display Format="%F %L %L2">Véronique</Display>
+    <First>Véronique</First>
+  </Name>
+  <Position BoundaryRect="-5313,-1114,-5247,-1173">-5280,-1140</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00137">
+  <Name>Clémentine FOUKS
+    <Display Format="%F %L %L2">Clémentine FOUKS</Display>
+    <First>Clémentine</First>
+    <Last>FOUKS</Last>
+  </Name>
+  <Position BoundaryRect="-5464,-1264,-5396,-1337">-5430,-1290</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00138">
+  <Name>Martin FOUKS
+    <Display Format="%F %L %L2">Martin FOUKS</Display>
+    <First>Martin</First>
+    <Last>FOUKS</Last>
+  </Name>
+  <Position BoundaryRect="-5356,-1264,-5304,-1337">-5330,-1290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00139">
+  <Name>Margot FOUKS
+    <Display Format="%F %L %L2">Margot FOUKS</Display>
+    <First>Margot</First>
+    <Last>FOUKS</Last>
+  </Name>
+  <Position BoundaryRect="-5256,-1264,-5204,-1337">-5230,-1290</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00140">
+  <Name>François CHOLLET
+    <Display>François CHOLLET</Display>
+    <First>François</First>
+    <Last>CHOLLET</Last>
+  </Name>
+  <Position BoundaryRect="-5831,-1114,-5769,-1187">-5800,-1140</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00141">
+  <Name>Violaine CHOLLET
+    <Display Format="%F %L %L2">Violaine CHOLLET</Display>
+    <First>Violaine</First>
+    <Last>CHOLLET</Last>
+  </Name>
+  <Position BoundaryRect="-6251,-1264,-6189,-1337">-6220,-1290</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00142">
+  <Name>Pierre CHOLLET
+    <Display Format="%F %L %L2">Pierre CHOLLET</Display>
+    <First>Pierre</First>
+    <Last>CHOLLET</Last>
+  </Name>
+  <Position BoundaryRect="-6151,-1264,-6089,-1337">-6120,-1290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00143">
+  <Name>Eglantine CHOLLET
+    <Display Format="%F %L %L2">Eglantine CHOLLET</Display>
+    <First>Eglantine</First>
+    <Last>CHOLLET</Last>
+  </Name>
+  <Position BoundaryRect="-6051,-1264,-5989,-1337">-6020,-1290</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00144">
+  <Name>Manon CHOLLET
+    <Display Format="%F %L %L2">Manon CHOLLET</Display>
+    <First>Manon</First>
+    <Last>CHOLLET</Last>
+  </Name>
+  <Position BoundaryRect="-5951,-1264,-5889,-1337">-5920,-1290</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00145">
+  <Name>Quentin CHOLLET
+    <Display Format="%F %L %L2">Quentin CHOLLET</Display>
+    <First>Quentin</First>
+    <Last>CHOLLET</Last>
+  </Name>
+  <Position BoundaryRect="-5851,-1264,-5789,-1337">-5820,-1290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00146">
+  <Name>Benjamin CHOLLET
+    <Display Format="%F %L %L2">Benjamin CHOLLET</Display>
+    <First>Benjamin</First>
+    <Last>CHOLLET</Last>
+  </Name>
+  <Position BoundaryRect="-5751,-1264,-5689,-1337">-5720,-1290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00147">
+  <Name>Valentin CHOLLET
+    <Display Format="%F %L %L2">Valentin CHOLLET</Display>
+    <First>Valentin</First>
+    <Last>CHOLLET</Last>
+  </Name>
+  <Position BoundaryRect="-5651,-1264,-5589,-1337">-5620,-1290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00148">
+  <Name>Justine CHOLLET
+    <Display Format="%F %L %L2">Justine CHOLLET</Display>
+    <First>Justine</First>
+    <Last>CHOLLET</Last>
+  </Name>
+  <Position BoundaryRect="-5551,-1264,-5489,-1337">-5520,-1290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00149">
+  <Name>Sarah TANCERMAN
+    <Display Format="%F %L %L2">Sarah TANCERMAN</Display>
+    <First>Sarah</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6800,-124,-6720,-197">-6760,-150</Position>
+  <Gender>F</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00150">
+  <Name>Abraham Joseph (Kuzmir ferryman) TANCERMAN
+    <Display Format="%F %L %L2">Abraham Joseph (Kuzmir ferryman) TANCERMAN</Display>
+    <First>Abraham Joseph (Kuzmir ferryman)</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5502,-118,-5398,-211">-5450,-150</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>1880</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00151">
+  <Name>Joseph TANCERMAN
+    <Display Format="%F %L %L2">Joseph TANCERMAN</Display>
+    <First>Joseph</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5190,-124,-5110,-197">-5150,-150</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00152">
+  <Name>Hinda TANCERMAN
+    <Display Format="%F %L %L2">Hinda TANCERMAN</Display>
+    <First>Hinda</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5110,-124,-5030,-197">-5070,-150</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00153">
+  <Name>Léa TANCERMAN
+    <Display Format="%F %L %L2">Léa TANCERMAN</Display>
+    <First>Léa</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-4940,-118,-4860,-197">-4900,-150</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>1890</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>1963</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00154">
+  <Name>Nathan TANCERMAN
+    <Display Format="%F %L %L2">Nathan TANCERMAN</Display>
+    <First>Nathan</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-4660,-124,-4580,-197">-4620,-150</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00155">
+  <Name>Ethel TANCERMAN
+    <Display Format="%F %L %L2">Ethel TANCERMAN</Display>
+    <First>Ethel</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-4550,-124,-4470,-197">-4510,-150</Position>
+  <Gender>F</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00156">
+  <Name>Leibouch BROSSMAN
+    <Display>Leibouch BROSSMAN</Display>
+    <First>Leibouch</First>
+    <Last>BROSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-4468,-124,-4393,-197">-4430,-150</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00157">
+  <Name>Motel MUSSMAN
+    <Display>Motel MUSSMAN</Display>
+    <First>Motel</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6504,-124,-6436,-197">-6470,-150</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00158">
+  <Name>Jacob (Jacques) TANCERMAN
+    <Display Lines="2">Jacob (Jacques) TANCERMAN</Display>
+    <First>Jacob (Jacques)</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-4509,-258,-4412,-337">-4460,-290</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>30 Dec 1918</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>17 Apr 1995</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00159">
+  <Name Format="Custom">Rachel (Roony) LOPATA
+    <Display Format="Custom" Lines="2">Rachel (Roony) LOPATA</Display>
+    <First>Rachel (Roony)</First>
+    <Last>LOPATA</Last>
+  </Name>
+  <Position BoundaryRect="-4776,-258,-4685,-337">-4730,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>14 Mar 1924</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>17 Mar 2020</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00160">
+  <Name>Jean-Louis TANCERMAN
+    <Display Format="%F %L %L2" Lines="2">Jean-Louis TANCERMAN</Display>
+    <First>Jean-Louis</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-4830,-388,-4750,-467">-4790,-420</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>1 Nov 1947</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00161">
+  <Name>Claude TANCERMAN
+    <Display Format="%F %L %L2">Claude TANCERMAN</Display>
+    <First>Claude</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-4610,-388,-4530,-467">-4570,-420</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>19 Mar 1949</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00162">
+  <Name>Isabelle TANCERMAN
+    <Display Format="%F %L %L2">Isabelle TANCERMAN</Display>
+    <First>Isabelle</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-4380,-388,-4300,-467">-4340,-420</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>29 Nov 1954</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00163">
+  <Name>Nathalie FEDRIGO
+    <Display>Nathalie FEDRIGO</Display>
+    <First>Nathalie</First>
+    <Last>FEDRIGO</Last>
+  </Name>
+  <Position BoundaryRect="-4490,-394,-4430,-467">-4460,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00164">
+  <Name>Thomas TANCERMAN
+    <Display Format="%F %L %L2">Thomas TANCERMAN</Display>
+    <First>Thomas</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-4550,-538,-4470,-617">-4510,-570</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>Aug 1994</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00165">
+  <Name>Bernard AZOULAY
+    <Display>Bernard AZOULAY</Display>
+    <First>Bernard</First>
+    <Last>AZOULAY</Last>
+  </Name>
+  <Position BoundaryRect="-4234,-388,-4166,-467">-4200,-420</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>15 May 1946</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00166">
+  <Name>Philippe AZOULAY
+    <Display Format="%F %L %L2">Philippe AZOULAY</Display>
+    <First>Philippe</First>
+    <Last>AZOULAY</Last>
+  </Name>
+  <Position BoundaryRect="-4429,-538,-4361,-617">-4395,-570</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>4 Sep 1980</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00167">
+  <Name>Celia AZOULAY
+    <Display Format="%F %L %L2">Celia AZOULAY</Display>
+    <First>Celia</First>
+    <Last>AZOULAY</Last>
+  </Name>
+  <Position BoundaryRect="-4279,-538,-4211,-617">-4245,-570</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>14 Aug 1984</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00168">
+  <Name>Harriet KANISS
+    <Display>Harriet KANISS</Display>
+    <First>Harriet</First>
+    <Last>KANISS</Last>
+  </Name>
+  <Position BoundaryRect="-4724,-388,-4656,-467">-4690,-420</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>8 Nov 1948</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00169">
+  <Name>Deborah KORENBLIT
+    <Display>Deborah KORENBLIT</Display>
+    <First>Deborah</First>
+    <Last>KORENBLIT</Last>
+  </Name>
+  <Position BoundaryRect="-5376,-124,-5304,-197">-5340,-150</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00170">
+  <Name>Hya-Lea TANCERMAN
+    <Display Format="%F %L %L2">Hya-Lea TANCERMAN</Display>
+    <First>Hya-Lea</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5100,-264,-5020,-351">-5060,-290</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00171">
+  <Name>Hersz TANCERMAN
+    <Display Format="%F %L %L2">Hersz TANCERMAN</Display>
+    <First>Hersz</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5690,-264,-5610,-337">-5650,-290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00172">
+  <Name>Rachel TANCERMAN
+    <Display Format="%F %L %L2">Rachel TANCERMAN</Display>
+    <First>Rachel</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5460,-258,-5380,-337">-5420,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>1912</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>1987</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00173">
+  <Name>Nahum (Alter) TANCERMAN
+    <Display Format="%F %L %L2">Nahum (Alter) TANCERMAN</Display>
+    <First>Nahum (Alter)</First>
+    <Last>TANCERMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5190,-264,-5110,-351">-5150,-290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00174">
+  <Name>Raymond LAVENDA
+    <Display>Raymond LAVENDA</Display>
+    <First>Raymond</First>
+    <Last>LAVENDA</Last>
+  </Name>
+  <Position BoundaryRect="-5354,-258,-5286,-337">-5320,-290</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>6 Aug 1911</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00175">
+  <Name>Jean LAVENDA
+    <Display Format="%F %L %L2">Jean LAVENDA</Display>
+    <First>Jean</First>
+    <Last>LAVENDA</Last>
+  </Name>
+  <Position BoundaryRect="-5404,-388,-5336,-467">-5370,-420</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>24 Jul 1941</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00176">
+  <Name>Dolly ALLALI
+    <Display>Dolly ALLALI</Display>
+    <First>Dolly</First>
+    <Last>ALLALI</Last>
+  </Name>
+  <Position BoundaryRect="-5286,-394,-5234,-467">-5260,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00177">
+  <Name>Florence LAVENDA
+    <Display Format="%F %L %L2">Florence LAVENDA</Display>
+    <First>Florence</First>
+    <Last>LAVENDA</Last>
+  </Name>
+  <Position BoundaryRect="-5334,-538,-5266,-617">-5300,-570</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>28 Oct 1970</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00178">
+  <Name>Tsiporah
+    <Display>Tsiporah</Display>
+    <First>Tsiporah</First>
+  </Name>
+  <Position BoundaryRect="-5599,-264,-5541,-323">-5570,-290</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00179">
+  <Name>Pinkus
+    <Display>Pinkus</Display>
+    <First>Pinkus</First>
+  </Name>
+  <Position BoundaryRect="-5016,-124,-4964,-183">-4990,-150</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00181">
+  <Name>David KLOCHENDLER
+    <Display Format="%F %L %L2">David KLOCHENDLER</Display>
+    <First>David</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3835,-128,-3745,-207">-3790,-160</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>26 Nov 1894</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>19 Dec 1978</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00182">
+  <Name>Jacob MUSSMAN
+    <Display Format="%F %L %L2">Jacob MUSSMAN</Display>
+    <First>Jacob</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6944,-264,-6876,-337">-6910,-290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00183">
+  <Name>Isaac MUSSMAN
+    <Display Format="%F %L %L2">Isaac MUSSMAN</Display>
+    <First>Isaac</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6734,-264,-6666,-337">-6700,-290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00184">
+  <Name>Rachel MUSSMAN
+    <Display Format="%F %L %L2">Rachel MUSSMAN</Display>
+    <First>Rachel</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6624,-264,-6556,-337">-6590,-290</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00185">
+  <Name>Abraham (Avram) MUSSMAN
+    <Display Format="%F %L %L2">Abraham (Avram) MUSSMAN</Display>
+    <First>Abraham (Avram)</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6504,-258,-6436,-351">-6470,-290</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>3 Mar 1913</Date>
+    <Place>place00001</Place>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>2 Feb 1983</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00186">
+  <Name>Sarah WEINTRAUB
+    <Display>Sarah WEINTRAUB</Display>
+    <First>Sarah</First>
+    <Last>WEINTRAUB</Last>
+  </Name>
+  <Position BoundaryRect="-6338,-258,-6262,-337">-6300,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>15 Dec 1913</Date>
+    <Place>place00002</Place>
+  </Birth>
+</Individual>
+<Individual ID="ind00187">
+  <Name>Shaul MUSSMAN
+    <Display>Shaul MUSSMAN</Display>
+    <First>Shaul</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6854,-398,-6786,-477">-6820,-430</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>20 Dec 1940</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00188">
+  <Name>Chavah MUSSMAN
+    <Display Format="%F %L %L2">Chavah MUSSMAN</Display>
+    <First>Chavah</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6094,-404,-6026,-477">-6060,-430</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00189">
+  <Name>Oraam ZINMAN
+    <Display>Oraam ZINMAN</Display>
+    <First>Oraam</First>
+    <Last>ZINMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5968,-404,-5913,-477">-5940,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00190">
+  <Name>Amit ZINMAN
+    <Display Format="%F %L %L2">Amit ZINMAN</Display>
+    <First>Amit</First>
+    <Last>ZINMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6063,-544,-6008,-617">-6035,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00191">
+  <Name>Royi ZINMAN
+    <Display Format="%F %L %L2">Royi ZINMAN</Display>
+    <First>Royi</First>
+    <Last>ZINMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6258,-544,-6203,-617">-6230,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00192">
+  <Name>Lihor ZINMAN
+    <Display Format="%F %L %L2">Lihor ZINMAN</Display>
+    <First>Lihor</First>
+    <Last>ZINMAN</Last>
+  </Name>
+  <Position BoundaryRect="-5953,-544,-5898,-617">-5925,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00193">
+  <Name>Aviva
+    <Display>Aviva</Display>
+    <First>Aviva</First>
+  </Name>
+  <Position BoundaryRect="-6156,-544,-6104,-603">-6130,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00194">
+  <Name>Ariel ZINMAN
+    <Display>Ariel ZINMAN</Display>
+    <First>Ariel</First>
+    <Last>ZINMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6294,-668,-6226,-747">-6260,-700</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>2001</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00195">
+  <Name>Mordechaï MUSSMAN
+    <Display>Mordechaï MUSSMAN</Display>
+    <First>Mordechaï</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6434,-404,-6366,-477">-6400,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00196">
+  <Name>Jonathan MUSSMAN
+    <Display>Jonathan MUSSMAN</Display>
+    <First>Jonathan</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6294,-404,-6226,-477">-6260,-430</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00197">
+  <Name>Anna PEREZLANYI
+    <Display>Anna PEREZLANYI</Display>
+    <First>Anna</First>
+    <Last>PEREZLANYI</Last>
+  </Name>
+  <Position BoundaryRect="-6740,-404,-6661,-477">-6700,-430</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00198">
+  <Name>Mikhal MUSSMAN
+    <Display Format="%F %L %L2">Mikhal MUSSMAN</Display>
+    <First>Mikhal</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6954,-538,-6886,-617">-6920,-570</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>5 Jun 1971</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00199">
+  <Name>Keren MUSSMAN
+    <Display Format="%F %L %L2">Keren MUSSMAN</Display>
+    <First>Keren</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6764,-538,-6696,-617">-6730,-570</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>21 Mar 1973</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00200">
+  <Name>Myriam GOLAN
+    <Display>Myriam GOLAN</Display>
+    <First>Myriam</First>
+    <Last>GOLAN</Last>
+  </Name>
+  <Position BoundaryRect="-6574,-398,-6506,-477">-6540,-430</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>21 Dec 1949</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00201">
+  <Name>Amir MUSSMAN
+    <Display Format="%F %L %L2">Amir MUSSMAN</Display>
+    <First>Amir</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6594,-538,-6526,-617">-6560,-570</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>15 Jan 1987</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00202">
+  <Name>Eugene GRINYOV
+    <Display>Eugene GRINYOV</Display>
+    <First>Eugene</First>
+    <Last>GRINYOV</Last>
+  </Name>
+  <Position BoundaryRect="-6862,-544,-6798,-617">-6830,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00203">
+  <Name>Alexsandra (Ally) GRINYOV
+    <Display Lines="2">Alexsandra (Ally) GRINYOV</Display>
+    <First>Alexsandra (Ally)</First>
+    <Last>GRINYOV</Last>
+  </Name>
+  <Position BoundaryRect="-6967,-668,-6874,-747">-6920,-700</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>18 May 1999</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00204">
+  <Name>Joël SOLIEC
+    <Display>Joël SOLIEC</Display>
+    <First>Joël</First>
+    <Last>SOLIEC</Last>
+  </Name>
+  <Position BoundaryRect="-4766,-1114,-4714,-1187">-4740,-1140</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00205">
+  <Name>Maëlle SOLIEC
+    <Display>Maëlle SOLIEC</Display>
+    <First>Maëlle</First>
+    <Last>SOLIEC</Last>
+  </Name>
+  <Position BoundaryRect="-4814,-1258,-4746,-1337">-4780,-1290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>2002</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00206">
+  <Position BoundaryRect="-5066,-1264,-5014,-1316">-5040,-1290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00207">
+  <Position BoundaryRect="-3556,166,-3504,114">-3530,140</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00208">
+  <Name>Laurent BENICHOU
+    <Display>Laurent BENICHOU</Display>
+    <First>Laurent</First>
+    <Last>BENICHOU</Last>
+  </Name>
+  <Position BoundaryRect="-3544,-388,-3476,-467">-3510,-420</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>6 Oct 1974</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00209">
+  <Name>Arthur BENICHOU
+    <Display>Arthur BENICHOU</Display>
+    <First>Arthur</First>
+    <Last>BENICHOU</Last>
+  </Name>
+  <Position BoundaryRect="-3624,-538,-3556,-617">-3590,-570</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>24 Jan 2005</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00210">
+  <Name>Gilles FERAY
+    <Display>Gilles FERAY</Display>
+    <First>Gilles</First>
+    <Last>FERAY</Last>
+  </Name>
+  <Position BoundaryRect="-2126,-544,-2074,-617">-2100,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00211">
+  <Name>Cécile RIFFET
+    <Display>Cécile RIFFET</Display>
+    <First>Cécile</First>
+    <Last>RIFFET</Last>
+  </Name>
+  <Position BoundaryRect="-3704,-388,-3636,-467">-3670,-420</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>19 Dec 1977</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00212">
+  <Name>Elsa KLOCHENDLER
+    <Display>Elsa KLOCHENDLER</Display>
+    <First>Elsa</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3805,-538,-3715,-617">-3760,-570</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>3 Jun 2006</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00213">
+  <Name>Franck DOUIEB
+    <Display>Franck DOUIEB</Display>
+    <First>Franck</First>
+    <Last>DOUIEB</Last>
+  </Name>
+  <Position BoundaryRect="-5427,-544,-5374,-617">-5400,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00214">
+  <Name>Ilan DOUIEB
+    <Display>Ilan DOUIEB</Display>
+    <First>Ilan</First>
+    <Last>DOUIEB</Last>
+  </Name>
+  <Position BoundaryRect="-5434,-668,-5366,-747">-5400,-700</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>6 May 2000</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00215">
+  <Name>Keren DOUIEB
+    <Display>Keren DOUIEB</Display>
+    <First>Keren</First>
+    <Last>DOUIEB</Last>
+  </Name>
+  <Position BoundaryRect="-5304,-668,-5236,-747">-5270,-700</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>20 Jul 2003</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00216">
+  <Name>Michel NAVAL-LARREGOLA
+    <Display Lines="2">Michel NAVAL-LARREGOLA</Display>
+    <First>Michel</First>
+    <Last>NAVAL-LARREGOLA</Last>
+  </Name>
+  <Position BoundaryRect="-4161,-1108,-4040,-1187">-4100,-1140</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>30 Dec 1955</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00217">
+  <Name>Enzo NAVAL-LARREGOLA
+    <Display Lines="2">Enzo NAVAL-LARREGOLA</Display>
+    <First>Enzo</First>
+    <Last>NAVAL-LARREGOLA</Last>
+  </Name>
+  <Position BoundaryRect="-4101,-1258,-3980,-1337">-4040,-1290</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>22 Jun 1997</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00218">
+  <Name>Isabelle COHEN
+    <Display>Isabelle COHEN</Display>
+    <First>Isabelle</First>
+    <Last>COHEN</Last>
+  </Name>
+  <Position BoundaryRect="-1466,-394,-1414,-467">-1440,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00219">
+  <Name>Alexia KLOCHENDLER
+    <Display>Alexia KLOCHENDLER</Display>
+    <First>Alexia</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-1585,-538,-1495,-617">-1540,-570</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>16 Nov 1986</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00220">
+  <Name>Ilana KLOCHENDLER
+    <Display>Ilana KLOCHENDLER</Display>
+    <First>Ilana</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-1495,-538,-1405,-617">-1450,-570</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>3 Jan 1990</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00221">
+  <Name>Norbert LEVY
+    <Display>Norbert LEVY</Display>
+    <First>Norbert</First>
+    <Last>LEVY</Last>
+  </Name>
+  <Position BoundaryRect="-1296,-394,-1244,-467">-1270,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00222">
+  <Name>Déborah LEVY
+    <Display>Déborah LEVY</Display>
+    <First>Déborah</First>
+    <Last>LEVY</Last>
+  </Name>
+  <Position BoundaryRect="-1394,-538,-1326,-617">-1360,-570</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>16 Apr 1993</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00223">
+  <Name>Laura LEVY
+    <Display>Laura LEVY</Display>
+    <First>Laura</First>
+    <Last>LEVY</Last>
+  </Name>
+  <Position BoundaryRect="-1304,-538,-1236,-617">-1270,-570</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>22 Mar 1995</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00224">
+  <Name>Pauline FERAY
+    <Display>Pauline FERAY</Display>
+    <First>Pauline</First>
+    <Last>FERAY</Last>
+  </Name>
+  <Position BoundaryRect="-2214,-668,-2146,-747">-2180,-700</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>27 Dec 1994</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00225">
+  <Name>Cassandre FERAY
+    <Display>Cassandre FERAY</Display>
+    <First>Cassandre</First>
+    <Last>FERAY</Last>
+  </Name>
+  <Position BoundaryRect="-2165,-668,-2096,-747">-2130,-700</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>4 Nov 1996</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00226">
+  <Name>Chloe FERAY
+    <Display>Chloe FERAY</Display>
+    <First>Chloe</First>
+    <Last>FERAY</Last>
+  </Name>
+  <Position BoundaryRect="-2114,-668,-2046,-747">-2080,-700</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>16 Nov 1999</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00227">
+  <Name>Garance FERAY
+    <Display>Garance FERAY</Display>
+    <First>Garance</First>
+    <Last>FERAY</Last>
+  </Name>
+  <Position BoundaryRect="-2064,-668,-1996,-747">-2030,-700</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>30 Dec 2003</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00228">
+  <Name>Stéphane NITEMBERG
+    <Display>Stéphane NITEMBERG</Display>
+    <First>Stéphane</First>
+    <Last>NITEMBERG</Last>
+  </Name>
+  <Position BoundaryRect="-2067,-538,-1994,-617">-2030,-570</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>16 Aug 1971</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00229">
+  <Name>Muriel
+    <Display>Muriel</Display>
+    <First>Muriel</First>
+  </Name>
+  <Position BoundaryRect="-4216,-1114,-4164,-1173">-4190,-1140</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00230">
+  <Name>Susie NAVAL-LARREGOLA
+    <Display Lines="2">Susie NAVAL-LARREGOLA</Display>
+    <First>Susie</First>
+    <Last>NAVAL-LARREGOLA</Last>
+  </Name>
+  <Position BoundaryRect="-4221,-1258,-4100,-1337">-4160,-1290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>14 Sep 1992</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00231">
+  <Name>Mendel MUSSMAN
+    <Display>Mendel MUSSMAN</Display>
+    <First>Mendel</First>
+    <Last>MUSSMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6844,-264,-6776,-337">-6810,-290</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00232">
+  <Name>Fajnka KLOCHENDLER
+    <Display>Fajnka KLOCHENDLER</Display>
+    <First>Fajnka</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="455,16,545,-57">500,-10</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00233">
+  <Name>Isaac WAJCMAN
+    <Display>Isaac WAJCMAN</Display>
+    <First>Isaac</First>
+    <Last>WAJCMAN</Last>
+  </Name>
+  <Position BoundaryRect="710,16,779,-57">745,-10</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00234">
+  <Name>Sarah WAJCMAN
+    <Display>Sarah WAJCMAN</Display>
+    <First>Sarah</First>
+    <Last>WAJCMAN</Last>
+  </Name>
+  <Position BoundaryRect="470,-149,539,-222">505,-175</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00235">
+  <Name>Tauba WAJCMAN
+    <Display>Tauba WAJCMAN</Display>
+    <First>Tauba</First>
+    <Last>WAJCMAN</Last>
+  </Name>
+  <Position BoundaryRect="570,-149,639,-222">605,-175</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00236">
+  <Position BoundaryRect="689,-149,741,-201">715,-175</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00237">
+  <Position BoundaryRect="579,-269,631,-321">605,-295</Position>
+</Individual>
+<Individual ID="ind00238">
+  <Position BoundaryRect="689,-269,741,-321">715,-295</Position>
+</Individual>
+<Individual ID="ind00239">
+  <Name>Szanjdla WAJCMAN
+    <Display>Szanjdla WAJCMAN</Display>
+    <First>Szanjdla</First>
+    <Last>WAJCMAN</Last>
+  </Name>
+  <Position BoundaryRect="830,-149,899,-222">865,-175</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00240">
+  <Name>Hermann (Henri) ARBEIT
+    <Display Lines="2">Hermann (Henri) ARBEIT</Display>
+    <First>Hermann (Henri)</First>
+    <Last>ARBEIT</Last>
+  </Name>
+  <Position BoundaryRect="926,-149,1014,-222">970,-175</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00241">
+  <Name>Rose ARBEIT
+    <Display>Rose ARBEIT</Display>
+    <First>Rose</First>
+    <Last>ARBEIT</Last>
+  </Name>
+  <Position BoundaryRect="799,-269,851,-342">825,-295</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00242">
+  <Name>Charles ARBEIT
+    <Display>Charles ARBEIT</Display>
+    <First>Charles</First>
+    <Last>ARBEIT</Last>
+  </Name>
+  <Position BoundaryRect="973,-269,1026,-342">1000,-295</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00243">
+  <Name>Alexandre OLEG
+    <Display>Alexandre OLEG</Display>
+    <First>Alexandre</First>
+    <Last>OLEG</Last>
+  </Name>
+  <Position BoundaryRect="892,-269,958,-342">925,-295</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00244">
+  <Name>Isaac OLEG
+    <Display>Isaac OLEG</Display>
+    <First>Isaac</First>
+    <Last>OLEG</Last>
+  </Name>
+  <Position BoundaryRect="799,-399,851,-472">825,-425</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00245">
+  <Name>Raphaël OLEG
+    <Display>Raphaël OLEG</Display>
+    <First>Raphaël</First>
+    <Last>OLEG</Last>
+  </Name>
+  <Position BoundaryRect="897,-399,952,-472">925,-425</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00246">
+  <Position BoundaryRect="979,-399,1031,-451">1005,-425</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00247">
+  <Position BoundaryRect="939,-569,991,-621">965,-595</Position>
+</Individual>
+<Individual ID="ind00248">
+  <Position BoundaryRect="679,-399,731,-451">705,-425</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00249">
+  <Position BoundaryRect="679,-569,731,-621">705,-595</Position>
+</Individual>
+<Individual ID="ind00250">
+  <Position BoundaryRect="799,-569,851,-621">825,-595</Position>
+</Individual>
+<Individual ID="ind00251">
+  <Name>Michael (Miky) GRYNIOV
+    <Display Lines="2">Michael (Miky) GRYNIOV</Display>
+    <First>Michael (Miky)</First>
+    <Last>GRYNIOV</Last>
+  </Name>
+  <Position BoundaryRect="-6872,-668,-6788,-747">-6830,-700</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>13 Feb 2004</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00252">
+  <Name>Adi ZINMAN
+    <Display>Adi ZINMAN</Display>
+    <First>Adi</First>
+    <Last>ZINMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6214,-668,-6146,-747">-6180,-700</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>2005</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00253">
+  <Name>Eran
+    <Display>Eran</Display>
+    <First>Eran</First>
+  </Name>
+  <Position BoundaryRect="-6676,-544,-6624,-603">-6650,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00254">
+  <Name>Tristan BENICHOU
+    <Display>Tristan BENICHOU</Display>
+    <First>Tristan</First>
+    <Last>BENICHOU</Last>
+  </Name>
+  <Position BoundaryRect="-3544,-538,-3476,-617">-3510,-570</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>2009</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00255">
+  <Name>Johann KLOCHENDLER
+    <Display>Johann KLOCHENDLER</Display>
+    <First>Johann</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-3715,-538,-3625,-617">-3670,-570</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>2008</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00256">
+  <Name>Catherine
+    <Display>Catherine</Display>
+    <First>Catherine</First>
+  </Name>
+  <Position BoundaryRect="-5181,-1124,-5119,-1183">-5150,-1150</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00257">
+  <Name>Grégoire KLOCHENDLER
+    <Display Format="%F">Grégoire</Display>
+    <First>Grégoire</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-5139,-1264,-5081,-1323">-5110,-1290</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+</Individual>
+<Individual ID="ind00258">
+  <Name>Philippe KLOCHENDLER
+    <Display Format="%F %L">Philippe KLOCHENDLER</Display>
+    <First>Philippe</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-4935,-1258,-4845,-1337">-4890,-1290</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>1978</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00259">
+  <Name>Diana Patricia GEMELLI
+    <Display Format="%F %L">Diana GEMELLI</Display>
+    <First>Diana</First>
+    <Middle>Patricia</Middle>
+    <Last>GEMELLI</Last>
+  </Name>
+  <Position BoundaryRect="-3154,-258,-3086,-337">-3120,-290</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>28 Mar 1961</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00260">
+  <Name>Talsara ZINMAN
+    <Display>Talsara ZINMAN</Display>
+    <First>Talsara</First>
+    <Last>ZINMAN</Last>
+  </Name>
+  <Position BoundaryRect="-6134,-668,-6066,-747">-6100,-700</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>2010</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00261">
+  <Name>Nimrod ARGOV
+    <Display>Nimrod ARGOV</Display>
+    <First>Nimrod</First>
+    <Last>ARGOV</Last>
+  </Name>
+  <Position BoundaryRect="-5883,-544,-5828,-617">-5855,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00262">
+  <Name>Daniel
+    <Display>Daniel</Display>
+    <First>Daniel</First>
+  </Name>
+  <Position BoundaryRect="-6764,-668,-6696,-733">-6730,-700</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>2008</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00263">
+  <Name>Mia
+    <Display>Mia</Display>
+    <First>Mia</First>
+  </Name>
+  <Position BoundaryRect="-6684,-668,-6616,-733">-6650,-700</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>2010</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00264">
+  <Name>Ian GROSSFIELD
+    <Display>Ian GROSSFIELD</Display>
+    <First>Ian</First>
+    <Last>GROSSFIELD</Last>
+  </Name>
+  <Position BoundaryRect="-2280,-394,-2200,-467">-2240,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00265">
+  <Name>Jason GROSSFIELD
+    <Display>Jason GROSSFIELD</Display>
+    <First>Jason</First>
+    <Last>GROSSFIELD</Last>
+  </Name>
+  <Position BoundaryRect="-2300,-544,-2220,-617">-2260,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00266">
+  <Name>Rebecca&#32; GROSSFIELD
+    <Display>Rebecca&#32; GROSSFIELD</Display>
+    <First>Rebecca&#32;</First>
+    <Last>GROSSFIELD</Last>
+  </Name>
+  <Position BoundaryRect="-2385,-544,-2305,-617">-2345,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00267">
+  <Name>Brett GROSSFIELD
+    <Display>Brett GROSSFIELD</Display>
+    <First>Brett</First>
+    <Last>GROSSFIELD</Last>
+  </Name>
+  <Position BoundaryRect="-2430,-544,-2350,-617">-2390,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00268">
+  <Name>Michelle GIUMETTE
+    <Display>Michelle GIUMETTE</Display>
+    <First>Michelle</First>
+    <Last>GIUMETTE</Last>
+  </Name>
+  <Position BoundaryRect="-2333,-544,-2268,-617">-2300,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00269">
+  <Name>Kim XXX
+    <Display>Kim XXX</Display>
+    <First>Kim</First>
+    <Last>XXX</Last>
+  </Name>
+  <Position BoundaryRect="-2406,-394,-2354,-467">-2380,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00270">
+  <Name>Spencer SILVERSTEIN
+    <Display>Spencer SILVERSTEIN</Display>
+    <First>Spencer</First>
+    <Last>SILVERSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-2565,-544,-2485,-617">-2525,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00271">
+  <Name>Max SILVERSTEIN
+    <Display>Max SILVERSTEIN</Display>
+    <First>Max</First>
+    <Last>SILVERSTEIN</Last>
+  </Name>
+  <Position BoundaryRect="-2485,-544,-2405,-617">-2445,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00009">
+  <Name>Paula (Priva) KLOCHENDLER
+    <Display Format="%F %L %L2" Lines="2">Paula (Priva) KLOCHENDLER</Display>
+    <First>Paula (Priva)</First>
+    <Last>KLOCHENDLER</Last>
+  </Name>
+  <Position BoundaryRect="-2720,-143,-2630,-222">-2675,-175</Position>
+  <Display>
+    <Colors>
+      <Gender>
+        <Fill Mask="15"/>
+      </Gender>
+    </Colors>
+  </Display>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>21 Mar 1900</Date>
+  </Birth>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>May 1983</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00272">
+  <Name>Laura
+    <Display>Laura</Display>
+    <First>Laura</First>
+  </Name>
+  <Position BoundaryRect="-2711,-394,-2659,-453">-2685,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00273">
+  <Name>Rebecca CHIPKIN
+    <Display>Rebecca CHIPKIN</Display>
+    <First>Rebecca</First>
+    <Last>CHIPKIN</Last>
+  </Name>
+  <Position BoundaryRect="-2750,-544,-2691,-617">-2720,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00274">
+  <Name>Sarah CHIPKIN
+    <Display>Sarah CHIPKIN</Display>
+    <First>Sarah</First>
+    <Last>CHIPKIN</Last>
+  </Name>
+  <Position BoundaryRect="-2697,-544,-2643,-617">-2670,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00275">
+  <Name>???
+    <Display>???</Display>
+    <First>???</First>
+  </Name>
+  <Position BoundaryRect="-2461,-394,-2409,-453">-2435,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00276">
+  <Name>Hanna MOSZYNBERG
+    <Display>Hanna MOSZYNBERG</Display>
+    <First>Hanna</First>
+    <Last>MOSZYNBERG</Last>
+  </Name>
+  <Position BoundaryRect="-5355,16,-5266,-57">-5310,-10</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00277">
+  <Name>Martine COSTI
+    <Display>Martine COSTI</Display>
+    <First>Martine</First>
+    <Last>COSTI</Last>
+  </Name>
+  <Position BoundaryRect="-1866,-394,-1814,-467">-1840,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00278">
+  <Name Format="%F %L">Lise BAREMBAUM
+    <Display Format="Custom">Lise BAREMBAUM</Display>
+    <First>Lise</First>
+    <Last>BAREMBAUM</Last>
+  </Name>
+  <Position BoundaryRect="-1921,-538,-1839,-617">-1880,-570</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>2 Jul 1987</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00279">
+  <Name>Sarah BAREMBAUM
+    <Display Format="%F %L">Sarah BAREMBAUM</Display>
+    <First>Sarah</First>
+    <Last>BAREMBAUM</Last>
+  </Name>
+  <Position BoundaryRect="-1836,-538,-1754,-617">-1795,-570</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>29 Oct 1991</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00280">
+  <Name>Karen VIDRA
+    <Display>Karen VIDRA</Display>
+    <First>Karen</First>
+    <Last>VIDRA</Last>
+  </Name>
+  <Position BoundaryRect="-1681,-394,-1629,-467">-1655,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00281">
+  <Name>Vanessa PODWOJNY
+    <Display>Vanessa PODWOJNY</Display>
+    <First>Vanessa</First>
+    <Last>PODWOJNY</Last>
+  </Name>
+  <Position BoundaryRect="-1753,-538,-1678,-617">-1715,-570</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>2 Jul 1994</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00282">
+  <Name>Noa PODWOJNY
+    <Display>Noa PODWOJNY</Display>
+    <First>Noa</First>
+    <Last>PODWOJNY</Last>
+  </Name>
+  <Position BoundaryRect="-1668,-538,-1593,-617">-1630,-570</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>May 1997</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00283">
+  <Name>Sophie ???
+    <Display>Sophie ???</Display>
+    <First>Sophie</First>
+    <Last>???</Last>
+  </Name>
+  <Position BoundaryRect="-1986,-544,-1934,-617">-1960,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00284">
+  <Name>Enzo NITEMBERG
+    <Display>Enzo NITEMBERG</Display>
+    <First>Enzo</First>
+    <Last>NITEMBERG</Last>
+  </Name>
+  <Position BoundaryRect="-2007,-668,-1934,-747">-1970,-700</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>4 May 2013</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00285">
+  <Name>??? ???
+    <Display>??? ???</Display>
+    <First>???</First>
+    <Last>???</Last>
+  </Name>
+  <Position BoundaryRect="-1201,-544,-1149,-617">-1175,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00286">
+  <Name>?? SCHARF
+    <Display>?? SCHARF</Display>
+    <First>??</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-1224,-674,-1166,-747">-1195,-700</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00287">
+  <Name>?? SCHARF
+    <Display>?? SCHARF</Display>
+    <First>??</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-1174,-674,-1116,-747">-1145,-700</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00288">
+  <Name>?? SCHARF
+    <Display>?? SCHARF</Display>
+    <First>??</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-1129,-674,-1071,-747">-1100,-700</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00289">
+  <Name>Jordan SCHARF
+    <Display>Jordan SCHARF</Display>
+    <First>Jordan</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-1064,-544,-1006,-617">-1035,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00290">
+  <Name>Felicia SCHARF
+    <Display>Felicia SCHARF</Display>
+    <First>Felicia</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-1014,-544,-956,-617">-985,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00291">
+  <Name>Allison SCHARF
+    <Display>Allison SCHARF</Display>
+    <First>Allison</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-964,-544,-906,-617">-935,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00292">
+  <Name>Dana ???
+    <Display>Dana ???</Display>
+    <First>Dana</First>
+    <Last>???</Last>
+  </Name>
+  <Position BoundaryRect="-861,-394,-809,-467">-835,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00293">
+  <Name>Maxine SCHARF
+    <Display>Maxine SCHARF</Display>
+    <First>Maxine</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-914,-544,-856,-617">-885,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00294">
+  <Name>Nathan SCHARF
+    <Display>Nathan SCHARF</Display>
+    <First>Nathan</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-874,-544,-816,-617">-845,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00295">
+  <Name>Olivia SCHARF
+    <Display>Olivia SCHARF</Display>
+    <First>Olivia</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-829,-544,-771,-617">-800,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00296">
+  <Name>Tandem SCHARF
+    <Display>Tandem SCHARF</Display>
+    <First>Tandem</First>
+    <Last>SCHARF</Last>
+  </Name>
+  <Position BoundaryRect="-784,-544,-726,-617">-755,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00297">
+  <Name>Justin LEFKOWITZ
+    <Display>Justin LEFKOWITZ</Display>
+    <First>Justin</First>
+    <Last>LEFKOWITZ</Last>
+  </Name>
+  <Position BoundaryRect="-622,-544,-548,-617">-585,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00298">
+  <Name>Darcy ???
+    <Display>Darcy ???</Display>
+    <First>Darcy</First>
+    <Last>???</Last>
+  </Name>
+  <Position BoundaryRect="-511,-394,-459,-467">-485,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00299">
+  <Name>Sam LEFKOWITZ
+    <Display>Sam LEFKOWITZ</Display>
+    <First>Sam</First>
+    <Last>LEFKOWITZ</Last>
+  </Name>
+  <Position BoundaryRect="-572,-544,-498,-617">-535,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00300">
+  <Name>Allison LEFKOWITZ
+    <Display>Allison LEFKOWITZ</Display>
+    <First>Allison</First>
+    <Last>LEFKOWITZ</Last>
+  </Name>
+  <Position BoundaryRect="-517,-544,-443,-617">-480,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00301">
+  <Name>Natalie ???
+    <Display>Natalie ???</Display>
+    <First>Natalie</First>
+    <Last>???</Last>
+  </Name>
+  <Position BoundaryRect="-426,-394,-374,-467">-400,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00302">
+  <Name>Heather LEFKOWITZ
+    <Display>Heather LEFKOWITZ</Display>
+    <First>Heather</First>
+    <Last>LEFKOWITZ</Last>
+  </Name>
+  <Position BoundaryRect="-482,-544,-408,-617">-445,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00303">
+  <Name>Sean LEFKOWITZ
+    <Display>Sean LEFKOWITZ</Display>
+    <First>Sean</First>
+    <Last>LEFKOWITZ</Last>
+  </Name>
+  <Position BoundaryRect="-427,-544,-353,-617">-390,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00304">
+  <Name>David XXX
+    <Display>David XXX</Display>
+    <First>David</First>
+    <Last>XXX</Last>
+  </Name>
+  <Position BoundaryRect="-336,-394,-284,-467">-310,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00305">
+  <Name>Emily XXX
+    <Display>Emily XXX</Display>
+    <First>Emily</First>
+    <Last>XXX</Last>
+  </Name>
+  <Position BoundaryRect="-381,-544,-329,-617">-355,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00306">
+  <Name>??? XXX
+    <Display>??? XXX</Display>
+    <First>???</First>
+    <Last>XXX</Last>
+  </Name>
+  <Position BoundaryRect="-336,-544,-284,-617">-310,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00307">
+  <Name>??? XXX
+    <Display>??? XXX</Display>
+    <First>???</First>
+    <Last>XXX</Last>
+  </Name>
+  <Position BoundaryRect="-128,-397,-76,-470">-102,-423</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00308">
+  <Name>XXX
+    <Display>XXX</Display>
+    <Last>XXX</Last>
+  </Name>
+  <Position BoundaryRect="-151,-559,-99,-618">-125,-585</Position>
+</Individual>
+<Individual ID="ind00309">
+  <Name>Stacy ???
+    <Display>Stacy ???</Display>
+    <First>Stacy</First>
+    <Last>???</Last>
+  </Name>
+  <Position BoundaryRect="39,-394,91,-467">65,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00310">
+  <Name>Jacob KUDEL
+    <Display>Jacob KUDEL</Display>
+    <First>Jacob</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="29,-544,81,-617">55,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00311">
+  <Name>Hayden KUDEL
+    <Display>Hayden KUDEL</Display>
+    <First>Hayden</First>
+    <Last>KUDEL</Last>
+  </Name>
+  <Position BoundaryRect="98,-544,151,-617">125,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00312">
+  <Name>Robert ABRAHAM
+    <Display>Robert ABRAHAM</Display>
+    <First>Robert</First>
+    <Last>ABRAHAM</Last>
+  </Name>
+  <Position BoundaryRect="215,-394,284,-467">250,-420</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00313">
+  <Name>Sara ABRAHAM
+    <Display>Sara ABRAHAM</Display>
+    <First>Sara</First>
+    <Last>ABRAHAM</Last>
+  </Name>
+  <Position BoundaryRect="140,-544,209,-617">175,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00314">
+  <Name Format="%F %L">Amanda ABRAHAM
+    <Display Format="%F %L">Amanda ABRAHAM</Display>
+    <First>Amanda</First>
+    <Last>ABRAHAM</Last>
+  </Name>
+  <Position BoundaryRect="190,-544,259,-617">225,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00315">
+  <Name>Jesse ABRAHAM
+    <Display>Jesse ABRAHAM</Display>
+    <First>Jesse</First>
+    <Last>ABRAHAM</Last>
+  </Name>
+  <Position BoundaryRect="245,-544,314,-617">280,-570</Position>
+  <Gender>M</Gender>
+</Individual>
+<Individual ID="ind00316">
+  <Name>Melissa ???
+    <Display>Melissa ???</Display>
+    <First>Melissa</First>
+    <Last>???</Last>
+  </Name>
+  <Position BoundaryRect="344,-394,396,-467">370,-420</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00317">
+  <Name>Cécile GANANSIA
+    <Display>Cécile GANANSIA</Display>
+    <First>Cécile</First>
+    <Last>GANANSIA</Last>
+  </Name>
+  <Position BoundaryRect="-4361,-544,-4290,-617">-4325,-570</Position>
+  <Gender>F</Gender>
+</Individual>
+<Individual ID="ind00319">
+  <Name>Franco BIONDI
+    <Display>Franco BIONDI</Display>
+    <First>Franco</First>
+    <Last>BIONDI</Last>
+  </Name>
+  <Position BoundaryRect="-2014,-388,-1946,-467">-1980,-420</Position>
+  <Gender>M</Gender>
+  <IsDead>Y</IsDead>
+  <Death>
+    <Date>Jun 2025</Date>
+  </Death>
+</Individual>
+<Individual ID="ind00320">
+  <Name>Saül AZOULAY
+    <Display>Saül AZOULAY</Display>
+    <First>Saül</First>
+    <Last>AZOULAY</Last>
+  </Name>
+  <Position BoundaryRect="-4459,-668,-4391,-747">-4425,-700</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>2 Feb 2014</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00321">
+  <Name>Max AZOULAY
+    <Display>Max AZOULAY</Display>
+    <First>Max</First>
+    <Last>AZOULAY</Last>
+  </Name>
+  <Position BoundaryRect="-4374,-668,-4306,-747">-4340,-700</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>2016</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00322">
+  <Name>David MODIANO
+    <Display>David MODIANO</Display>
+    <First>David</First>
+    <Last>MODIANO</Last>
+  </Name>
+  <Position BoundaryRect="-4204,-538,-4136,-617">-4170,-570</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>24 Nov 1981</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00323">
+  <Name>Emma MODIANO
+    <Display>Emma MODIANO</Display>
+    <First>Emma</First>
+    <Last>MODIANO</Last>
+  </Name>
+  <Position BoundaryRect="-4269,-668,-4201,-747">-4235,-700</Position>
+  <Gender>F</Gender>
+  <Birth>
+    <Date>28 Sep 2018</Date>
+  </Birth>
+</Individual>
+<Individual ID="ind00324">
+  <Name>Marlon MODIANO
+    <Display>Marlon MODIANO</Display>
+    <First>Marlon</First>
+    <Last>MODIANO</Last>
+  </Name>
+  <Position BoundaryRect="-4189,-668,-4121,-747">-4155,-700</Position>
+  <Gender>M</Gender>
+  <Birth>
+    <Date>25 Apr 2021</Date>
+  </Birth>
+</Individual>
+</Individuals>
+<Families>
+<Family ID="fam00064">
+  <DisplayText>1999</DisplayText>
+  <Position z="81">-5305,-630
+    <Top>
+      <Left>-5400,-630</Left>
+      <Right>-5300,-630</Right>
+    </Top>
+    <Bottom>-5350,-650
+      <Left>-5400,-650</Left>
+      <Right>-5270,-650</Right>
+    </Bottom>
+    <Points>-5305,-630, -5350,-630, -5350,-650</Points>
+  </Position>
+  <Unions>marr00001</Unions>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00001">
+  <Position>-5160,70
+    <Top>
+      <Left>-5220,70</Left>
+      <Right>-5100,70</Right>
+    </Top>
+    <Bottom>
+      <Left>-5400,40</Left>
+      <Right>-4930,40</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00002">
+  <Position>-1730,-70
+    <Top>
+      <Left>-2420,-70</Left>
+      <Right>-1100,-70</Right>
+    </Top>
+    <Bottom>
+      <Left>-4120,-100</Left>
+      <Right>-600,-100</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00003">
+  <Position>-1510,-220
+    <Top>
+      <Left>-1570,-220</Left>
+      <Right>-1440,-220</Right>
+    </Top>
+    <Bottom>
+      <Left>-1630,-260</Left>
+      <Right>-1420,-260</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00004">
+  <DisplayText>1969</DisplayText>
+  <Position>-1380,-350
+    <Top>
+      <Left>-1420,-350</Left>
+      <Right>-1320,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-1510,-380</Left>
+      <Right>-1350,-380</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00007</Unions>
+</Family>
+<Family ID="fam00005">
+  <Position>-1620,-350
+    <Top>
+      <Left>-1630,-350</Left>
+      <Right>-1550,-350</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00006">
+  <Position>-1900,-220
+    <Top>
+      <Left>-1970,-220</Left>
+      <Right>-1830,-220</Right>
+    </Top>
+    <Bottom>
+      <Left>-2000,-260</Left>
+      <Right>-1810,-260</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00007">
+  <Position>-1760,-350
+    <Top>
+      <Left>-1810,-350</Left>
+      <Right>-1710,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-1785,-380</Left>
+      <Right>-1720,-380</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00008">
+  <DisplayText>m.1945</DisplayText>
+  <Position>-1950,-350
+    <Top>
+      <Left>-2000,-350</Left>
+      <Right>-1885,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-2040,-380</Left>
+      <Right>-1900,-380</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00010</Unions>
+</Family>
+<Family ID="fam00009">
+  <DisplayText>1</DisplayText>
+  <Position>-2080,-500
+    <Top>
+      <Left>-2110,-500</Left>
+      <Right>-2040,-500</Right>
+    </Top>
+    <Bottom>-2030,-530
+      <Left>-2155,-530</Left>
+      <Right>-2030,-530</Right>
+    </Bottom>
+    <Points>-2080,-500, -2080,-530, -2030,-530</Points>
+  </Position>
+  <Relation>Divorce</Relation>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00010">
+  <Position>-500,-220
+    <Top>
+      <Left>-600,-220</Left>
+      <Right>-400,-220</Right>
+    </Top>
+    <Bottom>
+      <Left>-1090,-260</Left>
+      <Right>120,-260</Right>
+    </Bottom>
+    <Points>-500,-220, -500,-250, -500,-260</Points>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00011">
+  <Position>-1050,-350
+    <Top>
+      <Left>-1090,-350</Left>
+      <Right>-1000,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-1160,-380</Left>
+      <Right>-910,-380</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00012">
+  <Position>-1050,-500
+    <Top>
+      <Left>-1080,-500</Left>
+      <Right>-1010,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-1135,-530</Left>
+      <Right>-935,-530</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00013">
+  <Position>-670,-350
+    <Top>
+      <Left>-710,-350</Left>
+      <Right>-620,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-765,-380</Left>
+      <Right>-535,-380</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00014">
+  <Position>-725,-500
+    <Top>
+      <Left>-765,-500</Left>
+      <Right>-695,-500</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00016">
+  <Position>-400,-350
+    <Top>
+      <Left>-450,-350</Left>
+      <Right>-370,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-445,-380</Left>
+      <Right>-360,-380</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00017">
+  <Position>-210,-350
+    <Top>
+      <Left>-275,-350</Left>
+      <Right>-175,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-270,-380</Left>
+      <Right>-155,-380</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00018">
+  <Position>-230,-500
+    <Top>
+      <Left>-270,-500</Left>
+      <Right>-220,-500</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00019">
+  <Position>-10,-350
+    <Top>
+      <Left>-50,-350</Left>
+      <Right>15,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-55,-380</Left>
+      <Right>10,-380</Right>
+    </Bottom>
+    <Points>-10,-350, -20,-350, -20,-380, -10,-380</Points>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00020">
+  <Position>150,-350
+    <Top>
+      <Left>120,-350</Left>
+      <Right>305,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>125,-380</Left>
+      <Right>310,-380</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00022">
+  <Position>-2605,-220
+    <Top>
+      <Left>-2675,-220</Left>
+      <Right>-2455,-220</Right>
+    </Top>
+    <Bottom>
+      <Left>-2895,-260</Left>
+      <Right>-2315,-260</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00023">
+  <Position>-2965,-350
+    <Top>
+      <Left>-3035,-350</Left>
+      <Right>-2895,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-3055,-380</Left>
+      <Right>-2925,-380</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00024">
+  <Position>-2715,-350
+    <Top>
+      <Left>-2775,-350</Left>
+      <Right>-2650,-350</Right>
+    </Top>
+    <Bottom>-2629,-380
+      <Left>-2822,-380</Left>
+      <Right>-2627,-380</Right>
+    </Bottom>
+    <Points>-2715,-350, -2715,-380, -2740,-380, -2629,-380</Points>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00025">
+  <Position>-2315,-350
+    <Top>
+      <Left>-2450,-350</Left>
+      <Right>-2315,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-2560,-380</Left>
+      <Right>-2315,-380</Right>
+    </Bottom>
+    <Points>-2315,-350, -2380,-350, -2380,-380, -2315,-380</Points>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00026">
+  <Position>-3030,-500
+    <Top>
+      <Left>-3055,-500</Left>
+      <Right>-2995,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-3065,-530</Left>
+      <Right>-3010,-530</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00027">
+  <Position>-2900,-500
+    <Top>
+      <Left>-2925,-500</Left>
+      <Right>-2865,-500</Right>
+    </Top>
+    <Bottom>-2886,-535
+      <Left>-2950,-535</Left>
+      <Right>-2885,-535</Right>
+    </Bottom>
+    <Points>-2900,-500, -2900,-535, -2886,-535</Points>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00028">
+  <Position>-2775,-500
+    <Top>
+      <Left>-2820,-500</Left>
+      <Right>-2775,-500</Right>
+    </Top>
+    <Bottom>-2772,-535
+      <Left>-2820,-535</Left>
+      <Right>-2770,-535</Right>
+    </Bottom>
+    <Points>-2775,-500, -2800,-500, -2800,-535, -2772,-535</Points>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00031">
+  <Position>-3200,-350
+    <Top>
+      <Left>-3280,-350</Left>
+      <Right>-3200,-350</Right>
+    </Top>
+  </Position>
+  <Relation>Divorce</Relation>
+</Family>
+<Family ID="fam00032">
+  <Position>-3400,-350
+    <Top>
+      <Left>-3450,-350</Left>
+      <Right>-3340,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-3430,-380</Left>
+      <Right>-3340,-380</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00034">
+  <DisplayText>1963</DisplayText>
+  <Position>-3950,-1050
+    <Top>
+      <Left>-4000,-1050</Left>
+      <Right>-3910,-1050</Right>
+    </Top>
+    <Bottom>
+      <Left>-4000,-1080</Left>
+      <Right>-3910,-1080</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00012</Unions>
+</Family>
+<Family ID="fam00035">
+  <Position>-4320,-1050
+    <Top>
+      <Left>-4360,-1050</Left>
+      <Right>-4280,-1050</Right>
+    </Top>
+    <Bottom>
+      <Left>-4360,-1080</Left>
+      <Right>-4270,-1080</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00036">
+  <Position>-4520,-1050
+    <Top>
+      <Left>-4570,-1050</Left>
+      <Right>-4480,-1050</Right>
+    </Top>
+    <Bottom>
+      <Left>-4560,-1080</Left>
+      <Right>-4480,-1080</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00037">
+  <Position>-4840,-1050
+    <Top>
+      <Left>-4900,-1050</Left>
+      <Right>-4780,-1050</Right>
+    </Top>
+    <Bottom>
+      <Left>-5020,-1080</Left>
+      <Right>-4650,-1080</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00039">
+  <DisplayText>2</DisplayText>
+  <Position>-4950,-1220
+    <Top>
+      <Left>-5020,-1220</Left>
+      <Right>-4910,-1220</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00040">
+  <Position>-5520,-1050
+    <Top>
+      <Left>-5590,-1050</Left>
+      <Right>-5460,-1050</Right>
+    </Top>
+    <Bottom>
+      <Left>-5940,-1080</Left>
+      <Right>-5380,-1080</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00041">
+  <Position>-5330,-1200
+    <Top>
+      <Left>-5380,-1200</Left>
+      <Right>-5280,-1200</Right>
+    </Top>
+    <Bottom>
+      <Left>-5430,-1230</Left>
+      <Right>-5230,-1230</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00042">
+  <Position>-5870,-1200
+    <Top>
+      <Left>-5940,-1200</Left>
+      <Right>-5800,-1200</Right>
+    </Top>
+    <Bottom>
+      <Left>-6220,-1230</Left>
+      <Right>-5520,-1230</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00043">
+  <Position>-4923,-70
+    <Top>
+      <Left>-4930,-70</Left>
+      <Right>-4665,-70</Right>
+    </Top>
+    <Bottom>-4780,-100
+      <Left>-6760,-100</Left>
+      <Right>-4510,-100</Right>
+    </Bottom>
+    <Points>-4923,-70, -4720,-70, -4780,-70, -4780,-100</Points>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00044">
+  <Position>-4470,-220
+    <Top>
+      <Left>-4510,-220</Left>
+      <Right>-4430,-220</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00045">
+  <Position>-4480,-250
+    <Top>
+      <Left>-4900,-250</Left>
+      <Right>-4120,-250</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Display>
+    <Color Label="#000080">#000080</Color>
+  </Display>
+</Family>
+<Family ID="fam00047">
+  <DisplayText>2004</DisplayText>
+  <Position>-4510,-500
+    <Top>
+      <Left>-4570,-500</Left>
+      <Right>-4460,-500</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00003</Unions>
+</Family>
+<Family ID="fam00048">
+  <DisplayText>1978</DisplayText>
+  <Position>-4270,-500
+    <Top>
+      <Left>-4340,-500</Left>
+      <Right>-4200,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-4395,-530</Left>
+      <Right>-4245,-530</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00004</Unions>
+</Family>
+<Family ID="fam00049">
+  <DisplayText>1973</DisplayText>
+  <Position>-4740,-500
+    <Top>
+      <Left>-4790,-500</Left>
+      <Right>-4690,-500</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00005</Unions>
+</Family>
+<Family ID="fam00050">
+  <DisplayText>m. 1903</DisplayText>
+  <Position>-5400,-220
+    <Top>
+      <Left>-5450,-220</Left>
+      <Right>-5340,-220</Right>
+    </Top>
+    <Bottom>
+      <Left>-5740,-250</Left>
+      <Right>-5060,-250</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00051">
+  <Position>-5370,-350
+    <Top>
+      <Left>-5420,-350</Left>
+      <Right>-5320,-350</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00052">
+  <DisplayText>1969</DisplayText>
+  <Position>-5300,-500
+    <Top>
+      <Left>-5370,-500</Left>
+      <Right>-5260,-500</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00006</Unions>
+</Family>
+<Family ID="fam00053">
+  <Position>-5580,-350
+    <Top>
+      <Left>-5650,-350</Left>
+      <Right>-5570,-350</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00054">
+  <Position>-5040,-220
+    <Top>
+      <Left>-5070,-220</Left>
+      <Right>-4990,-220</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00055">
+  <Position>-6640,-220
+    <Top>
+      <Left>-6760,-220</Left>
+      <Right>-6470,-220</Right>
+    </Top>
+    <Bottom>
+      <Left>-6910,-250</Left>
+      <Right>-6470,-250</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00056">
+  <Position>-6380,-350
+    <Top>
+      <Left>-6470,-350</Left>
+      <Right>-6300,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-6820,-380</Left>
+      <Right>-6060,-380</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00057">
+  <Position>-6000,-500
+    <Top>
+      <Left>-6060,-500</Left>
+      <Right>-5940,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-6230,-530</Left>
+      <Right>-5925,-530</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00058">
+  <Position>-6180,-630
+    <Top>
+      <Left>-6230,-630</Left>
+      <Right>-6130,-630</Right>
+    </Top>
+    <Bottom>
+      <Left>-6260,-650</Left>
+      <Right>-6100,-650</Right>
+    </Bottom>
+    <Points>-6180,-630, -6180,-650, -6140,-650, -6160,-650, -6230,-650, -6180,-650</Points>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00059">
+  <DisplayText>1</DisplayText>
+  <Position>-6760,-480
+    <Top>
+      <Left>-6820,-480</Left>
+      <Right>-6700,-480</Right>
+    </Top>
+    <Bottom>
+      <Left>-6920,-530</Left>
+      <Right>-6730,-530</Right>
+    </Bottom>
+  </Position>
+  <Relation>Divorce</Relation>
+  <Unions>marr00015</Unions>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00060">
+  <DisplayText>2</DisplayText>
+  <Position>-6680,-500
+    <Top>
+      <Left>-6820,-500</Left>
+      <Right>-6540,-500</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00014</Unions>
+</Family>
+<Family ID="fam00061">
+  <Position>-6875,-630
+    <Top>
+      <Left>-6920,-630</Left>
+      <Right>-6830,-630</Right>
+    </Top>
+    <Bottom>
+      <Left>-6920,-650</Left>
+      <Right>-6830,-650</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00062">
+  <Position>-4780,-1230
+    <Top>
+      <Left>-4830,-1230</Left>
+      <Right>-4740,-1230</Right>
+    </Top>
+    <Bottom>
+      <Left>-4780,-1270</Left>
+      <Right>-4780,-1270</Right>
+    </Bottom>
+  </Position>
+  <Relation>Divorce</Relation>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00063">
+  <Position>-5010,-1360
+    <Top>
+      <Left>-5040,-1360</Left>
+      <Right>-4970,-1360</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00065">
+  <Position>-3670,-350
+    <Top>
+      <Left>-3710,-350</Left>
+      <Right>-3630,-350</Right>
+    </Top>
+    <Bottom>-3620,-380
+      <Left>-3760,-380</Left>
+      <Right>-3590,-380</Right>
+    </Bottom>
+    <Points>-3670,-350, -3670,-380, -3620,-380</Points>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00066">
+  <DisplayText>2</DisplayText>
+  <Position>-3510,-220
+    <Top>
+      <Left>-3790,-220</Left>
+      <Right>-3240,-220</Right>
+    </Top>
+    <Bottom>
+      <Left>-3710,-250</Left>
+      <Right>-3280,-250</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00067">
+  <Position>-3610,80
+    <Top>
+      <Left>-3700,80</Left>
+      <Right>-3530,80</Right>
+    </Top>
+    <Bottom>
+      <Left>-4665,40</Left>
+      <Right>500,40</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00068">
+  <Position>-3550,-500
+    <Top>
+      <Left>-3590,-500</Left>
+      <Right>-3510,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-3590,-530</Left>
+      <Right>-3510,-530</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00069">
+  <DisplayText>m.1992</DisplayText>
+  <Position>-2155,-635
+    <Top>
+      <Left>-2155,-635</Left>
+      <Right>-2100,-635</Right>
+    </Top>
+    <Bottom>-2030,-650
+      <Left>-2180,-650</Left>
+      <Right>-2030,-650</Right>
+    </Bottom>
+    <Points>-2155,-635, -2115,-635, -2115,-650, -2180,-650, -2030,-650</Points>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00011</Unions>
+</Family>
+<Family ID="fam00070">
+  <Position>-3720,-500
+    <Top>
+      <Left>-3760,-500</Left>
+      <Right>-3670,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-3760,-530</Left>
+      <Right>-3670,-530</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00071">
+  <DisplayText>2</DisplayText>
+  <Position>-4050,-1230
+    <Top>
+      <Left>-4100,-1230</Left>
+      <Right>-4000,-1230</Right>
+    </Top>
+  </Position>
+  <Unions>marr00013</Unions>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00072">
+  <DisplayText>1</DisplayText>
+  <Position>-4760,-840
+    <Top>
+      <Left>-5740,-840</Left>
+      <Right>-3910,-840</Right>
+    </Top>
+    <Bottom>
+      <Left>-5590,-890</Left>
+      <Right>-3720,-890</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Display Color="#000080"/>
+</Family>
+<Family ID="fam00073">
+  <DisplayText>1984</DisplayText>
+  <Position>-1490,-500
+    <Top>
+      <Left>-1510,-500</Left>
+      <Right>-1440,-500</Right>
+    </Top>
+    <Bottom>-1485,-530
+      <Left>-1540,-530</Left>
+      <Right>-1450,-530</Right>
+    </Bottom>
+    <Points>-1490,-500, -1490,-530, -1485,-530</Points>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00008</Unions>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00074">
+  <DisplayText>1985</DisplayText>
+  <Position>-1310,-500
+    <Top>
+      <Left>-1350,-500</Left>
+      <Right>-1270,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-1360,-530</Left>
+      <Right>-1270,-530</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00009</Unions>
+</Family>
+<Family ID="fam00075">
+  <DisplayText>1</DisplayText>
+  <Position>-4145,-1230
+    <Top>
+      <Left>-4190,-1230</Left>
+      <Right>-4100,-1230</Right>
+    </Top>
+  </Position>
+  <Relation>Divorce</Relation>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00076">
+  <DisplayText>1947</DisplayText>
+  <Position>-4600,-350
+    <Top>
+      <Left>-4730,-350</Left>
+      <Right>-4462,-350</Right>
+    </Top>
+    <Bottom>
+      <Left>-4790,-380</Left>
+      <Right>-4340,-380</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00077">
+  <Position>625,-75
+    <Top>
+      <Left>500,-75</Left>
+      <Right>745,-75</Right>
+    </Top>
+    <Bottom>
+      <Left>505,-105</Left>
+      <Right>865,-105</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00078">
+  <Position>665,-225
+    <Top>
+      <Left>605,-225</Left>
+      <Right>715,-225</Right>
+    </Top>
+    <Bottom>
+      <Left>605,-265</Left>
+      <Right>715,-265</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00079">
+  <Position>865,-225
+    <Top>
+      <Left>865,-225</Left>
+      <Right>970,-225</Right>
+    </Top>
+    <Bottom>915,-265
+      <Left>825,-265</Left>
+      <Right>1000,-265</Right>
+    </Bottom>
+    <Points>865,-225, 915,-225, 915,-265</Points>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00080">
+  <Position>875,-355
+    <Top>
+      <Left>825,-355</Left>
+      <Right>925,-355</Right>
+    </Top>
+    <Bottom>
+      <Left>825,-385</Left>
+      <Right>925,-385</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00081">
+  <Position>965,-505
+    <Top>
+      <Left>925,-505</Left>
+      <Right>1005,-505</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00082">
+  <Position>765,-505
+    <Top>
+      <Left>705,-505</Left>
+      <Right>825,-505</Right>
+    </Top>
+    <Bottom>
+      <Left>705,-535</Left>
+      <Right>825,-535</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00083">
+  <Position>-6690,-630
+    <Top>
+      <Left>-6730,-630</Left>
+      <Right>-6650,-630</Right>
+    </Top>
+    <Bottom>
+      <Left>-6730,-650</Left>
+      <Right>-6650,-650</Right>
+    </Bottom>
+  </Position>
+  <Unions>marr00016</Unions>
+</Family>
+<Family ID="fam00084">
+  <DisplayText>1</DisplayText>
+  <Position>-5130,-1220
+    <Top>
+      <Left>-5150,-1220</Left>
+      <Right>-5020,-1220</Right>
+    </Top>
+  </Position>
+  <Relation>Divorce</Relation>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00085">
+  <DisplayText>&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32; m. 2003</DisplayText>
+  <Position>-3280,-350
+    <Top>
+      <Left>-3280,-350</Left>
+      <Right>-3120,-350</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00017</Unions>
+</Family>
+<Family ID="fam00086">
+  <Position>-5855,-630
+    <Top>
+      <Left>-5925,-630</Left>
+      <Right>-5855,-630</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00088">
+  <DisplayText>m. 2004</DisplayText>
+  <Position>-2270,-635
+    <Top>
+      <Left>-2300,-635</Left>
+      <Right>-2260,-635</Right>
+    </Top>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00089">
+  <Position>-2710,-500
+    <Top>
+      <Left>-2735,-500</Left>
+      <Right>-2685,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-2720,-535</Left>
+      <Right>-2670,-535</Right>
+    </Bottom>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00090">
+  <DisplayText>m.2</DisplayText>
+  <Position>-2410,-500
+    <Top>
+      <Left>-2435,-500</Left>
+      <Right>-2380,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-2525,-535</Left>
+      <Right>-2410,-535</Right>
+    </Bottom>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00091">
+  <DisplayText>m.1</DisplayText>
+  <Position>-2435,-500
+    <Top>
+      <Left>-2490,-500</Left>
+      <Right>-2435,-500</Right>
+    </Top>
+  </Position>
+  <Relation>Divorce</Relation>
+  <Unions>marr00018</Unions>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00092">
+  <Position>-2270,-500
+    <Top>
+      <Left>-2325,-500</Left>
+      <Right>-2240,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-2390,-530</Left>
+      <Right>-2260,-530</Right>
+    </Bottom>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00093">
+  <DisplayText>m.1869</DisplayText>
+  <Position>-5395,-75
+    <Top>
+      <Left>-5400,-75</Left>
+      <Right>-5310,-75</Right>
+    </Top>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00094">
+  <DisplayText>m. 1984</DisplayText>
+  <Position>-1870,-500
+    <Top>
+      <Left>-1900,-500</Left>
+      <Right>-1840,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-1880,-530</Left>
+      <Right>-1795,-530</Right>
+    </Bottom>
+  </Position>
+  <Relation>Divorce</Relation>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00095">
+  <DisplayText>m.1993</DisplayText>
+  <Position>-1690,-500
+    <Top>
+      <Left>-1720,-500</Left>
+      <Right>-1655,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-1715,-530</Left>
+      <Right>-1630,-530</Right>
+    </Bottom>
+  </Position>
+  <Unions>marr00019</Unions>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00096">
+  <Position>-1995,-635
+    <Top>
+      <Left>-2030,-635</Left>
+      <Right>-1960,-635</Right>
+    </Top>
+  </Position>
+</Family>
+<Family ID="fam00097">
+  <Position>-1155,-635
+    <Top>
+      <Left>-1175,-635</Left>
+      <Right>-1135,-635</Right>
+    </Top>
+    <Bottom>-1200,-650
+      <Left>-1200,-650</Left>
+      <Right>-1100,-650</Right>
+    </Bottom>
+    <Points>-1155,-635, -1155,-650, -1130,-650, -1105,-650, -1200,-650</Points>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00098">
+  <Position>-860,-500
+    <Top>
+      <Left>-910,-500</Left>
+      <Right>-835,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-885,-530</Left>
+      <Right>-755,-530</Right>
+    </Bottom>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00099">
+  <Position>-485,-500
+    <Top>
+      <Left>-535,-500</Left>
+      <Right>-485,-500</Right>
+    </Top>
+    <Bottom>-505,-525
+      <Left>-535,-525</Left>
+      <Right>-480,-525</Right>
+    </Bottom>
+    <Points>-485,-500, -505,-500, -505,-525</Points>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00100">
+  <Position>-610,-500
+    <Top>
+      <Left>-635,-500</Left>
+      <Right>-585,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-640,-525</Left>
+      <Right>-585,-525</Right>
+    </Bottom>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00101">
+  <Position>-445,-500
+    <Top>
+      <Left>-445,-500</Left>
+      <Right>-400,-500</Right>
+    </Top>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00102">
+  <Position>-335,-500
+    <Top>
+      <Left>-360,-500</Left>
+      <Right>-310,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>-355,-530</Left>
+      <Right>-310,-530</Right>
+    </Bottom>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00103">
+  <Position>-146,-498
+    <Top>
+      <Left>-155,-498</Left>
+      <Right>-102,-498</Right>
+    </Top>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00104">
+  <Position>95,-500
+    <Top>
+      <Left>65,-500</Left>
+      <Right>125,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>55,-530</Left>
+      <Right>125,-530</Right>
+    </Bottom>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00105">
+  <Position>225,-500
+    <Top>
+      <Left>195,-500</Left>
+      <Right>250,-500</Right>
+    </Top>
+    <Bottom>
+      <Left>175,-525</Left>
+      <Right>280,-525</Right>
+    </Bottom>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00106">
+  <Position>325,-500
+    <Top>
+      <Left>310,-500</Left>
+      <Right>370,-500</Right>
+    </Top>
+  </Position>
+  <Display Color="#000000"/>
+</Family>
+<Family ID="fam00108">
+  <DisplayText>2</DisplayText>
+  <Position>-1980,-500
+    <Top>
+      <Left>-2040,-500</Left>
+      <Right>-1980,-500</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+</Family>
+<Family ID="fam00109">
+  <Position>-4360,-625
+    <Top>
+      <Left>-4395,-625</Left>
+      <Right>-4325,-625</Right>
+    </Top>
+    <Bottom>
+      <Left>-4425,-650</Left>
+      <Right>-4340,-650</Right>
+    </Bottom>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00020</Unions>
+</Family>
+<Family ID="fam00110">
+  <DisplayText>2018</DisplayText>
+  <Position>-4245,-625
+    <Top>
+      <Left>-4245,-625</Left>
+      <Right>-4170,-625</Right>
+    </Top>
+  </Position>
+  <Relation>Marriage</Relation>
+  <Unions>marr00021</Unions>
+</Family>
+</Families>
+<Marriages>
+<Marriage ID="marr00001">
+  <Date>29 May 1999</Date>
+</Marriage>
+<Marriage ID="marr00003">
+  <Date>2004</Date>
+</Marriage>
+<Marriage ID="marr00004">
+  <Date>21 Sep 1978</Date>
+</Marriage>
+<Marriage ID="marr00005">
+  <Date>24 Aug 1973</Date>
+</Marriage>
+<Marriage ID="marr00006">
+  <Date>21 Dec 1969</Date>
+</Marriage>
+<Marriage ID="marr00007">
+  <Date>1969</Date>
+</Marriage>
+<Marriage ID="marr00008">
+  <Date>1984</Date>
+</Marriage>
+<Marriage ID="marr00009">
+  <Date>1985</Date>
+</Marriage>
+<Marriage ID="marr00010">
+  <Date>1945</Date>
+</Marriage>
+<Marriage ID="marr00011">
+  <Date>1993</Date>
+</Marriage>
+<Marriage ID="marr00012">
+  <Date>Jun 1963</Date>
+</Marriage>
+<Marriage ID="marr00013">
+  <Comment>2ème lit</Comment>
+</Marriage>
+<Marriage ID="marr00014">
+  <Type>ReligiousCivil</Type>
+  <Date>2 Jul 1985</Date>
+</Marriage>
+<Marriage ID="marr00015">
+  <Type>ReligiousCivil</Type>
+  <Date>22 Mar 1969</Date>
+</Marriage>
+<Marriage ID="marr00016">
+  <Type>ReligiousCivil</Type>
+  <Date>23 Mar 2007</Date>
+</Marriage>
+<Marriage ID="marr00017">
+  <Date>15 Nov 2003</Date>
+</Marriage>
+<Marriage ID="marr00018">
+  <IsAnnulled>Y</IsAnnulled>
+</Marriage>
+<Marriage ID="marr00019">
+  <IsAnnulled>Y</IsAnnulled>
+</Marriage>
+<Marriage ID="marr00020">
+  <Type>ReligiousCivil</Type>
+</Marriage>
+<Marriage ID="marr00021">
+  <Type>ReligiousCivil</Type>
+  <Date>17 May 2018</Date>
+</Marriage>
+</Marriages>
+<PedigreeLinks>
+<PedigreeLink PedigreeLink="Parent" Family="fam00001" Individual="ind00001">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00001" Individual="ind00002">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00001" Individual="ind00003">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00001" Individual="ind00004">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00001" Individual="ind00005">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00002" Individual="ind00006">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00002" Individual="ind00007">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00002" Individual="ind00008">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00002" Individual="ind00010">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00002" Individual="ind00011">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00002" Individual="ind00012">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00002" Individual="ind00013">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00003" Individual="ind00011">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00003" Individual="ind00014">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00015">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00003" Individual="ind00016">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00004" Individual="ind00016">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00004" Individual="ind00017">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00005" Individual="ind00018">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00005" Individual="ind00015">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Adopted" Family="fam00005" Individual="ind00019">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00004" Individual="ind00020">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00004" Individual="ind00021">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00006" Individual="ind00022">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00006" Individual="ind00010">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00006" Individual="ind00023">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00006" Individual="ind00024">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00007" Individual="ind00023">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00007" Individual="ind00025">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00007" Individual="ind00026">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00007" Individual="ind00027">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00008" Individual="ind00028">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00008" Individual="ind00024">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00008" Individual="ind00029">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00008" Individual="ind00030">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00009" Individual="ind00031">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00009" Individual="ind00029">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00010" Individual="ind00033">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00010" Individual="ind00013">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00010" Individual="ind00034">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00010" Individual="ind00035">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00010" Individual="ind00036">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00010" Individual="ind00037">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00010" Individual="ind00038">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00010" Individual="ind00039">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00011" Individual="ind00040">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00011" Individual="ind00034">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00011" Individual="ind00041">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00011" Individual="ind00042">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00011" Individual="ind00043">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00012" Individual="ind00042">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00012" Individual="ind00044">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00012" Individual="ind00045">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00012" Individual="ind00046">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00013" Individual="ind00047">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00013" Individual="ind00035">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00013" Individual="ind00048">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00013" Individual="ind00049">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00013" Individual="ind00050">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00013" Individual="ind00051">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00014" Individual="ind00048">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00014" Individual="ind00052">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00014" Individual="ind00053">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00016" Individual="ind00036">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00016" Individual="ind00056">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00016" Individual="ind00057">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00016" Individual="ind00058">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00017" Individual="ind00059">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00017" Individual="ind00037">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00017" Individual="ind00060">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00017" Individual="ind00061">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00018" Individual="ind00062">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00018" Individual="ind00060">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00019" Individual="ind00038">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00019" Individual="ind00063">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00019" Individual="ind00064">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00019" Individual="ind00065">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00020" Individual="ind00039">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00020" Individual="ind00066">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00020" Individual="ind00067">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00020" Individual="ind00068">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00020" Individual="ind00069">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00022" Individual="ind00073">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00022" Individual="ind00074">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00022" Individual="ind00075">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00022" Individual="ind00076">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00023" Individual="ind00077">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00023" Individual="ind00074">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00023" Individual="ind00078">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00023" Individual="ind00079">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00024" Individual="ind00080">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00024" Individual="ind00075">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00024" Individual="ind00081">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00024" Individual="ind00082">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00024" Individual="ind00083">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00025" Individual="ind00084">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00025" Individual="ind00076">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00025" Individual="ind00085">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00025" Individual="ind00086">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00025" Individual="ind00087">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00026" Individual="ind00088">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00026" Individual="ind00078">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00026" Individual="ind00089">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00026" Individual="ind00090">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00027" Individual="ind00079">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00027" Individual="ind00091">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00027" Individual="ind00092">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00027" Individual="ind00093">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00028" Individual="ind00081">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00028" Individual="ind00094">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00028" Individual="ind00095">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00028" Individual="ind00096">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00031" Individual="ind00107">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00031" Individual="ind00109">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00031" Individual="ind00110">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00032" Individual="ind00108">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00032" Individual="ind00111">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00032" Individual="ind00112">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00032" Individual="ind00113">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00034" Individual="ind00102">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00034" Individual="ind00117">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00034" Individual="ind00118">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00034" Individual="ind00119">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00035" Individual="ind00101">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00035" Individual="ind00120">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00035" Individual="ind00121">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00035" Individual="ind00122">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00036" Individual="ind00123">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00036" Individual="ind00124">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00036" Individual="ind00125">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00036" Individual="ind00100">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00037" Individual="ind00099">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00037" Individual="ind00126">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00037" Individual="ind00127">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00037" Individual="ind00128">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00037" Individual="ind00129">
+  <Position z="100"/>
+  <Display Color="#000000" SolidLine="Y"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00039" Individual="ind00132">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00039" Individual="ind00127">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00040" Individual="ind00133">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00040" Individual="ind00098">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00040" Individual="ind00134">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00040" Individual="ind00135">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00041" Individual="ind00135">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00041" Individual="ind00136">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00041" Individual="ind00137">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00041" Individual="ind00138">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00041" Individual="ind00139">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00042" Individual="ind00134">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00042" Individual="ind00140">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00042" Individual="ind00141">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00042" Individual="ind00142">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00042" Individual="ind00143">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00042" Individual="ind00144">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00042" Individual="ind00145">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00042" Individual="ind00146">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00042" Individual="ind00147">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00042" Individual="ind00148">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00043" Individual="ind00005">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00043" Individual="ind00072">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00043" Individual="ind00149">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00043" Individual="ind00150">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00043" Individual="ind00151">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00043" Individual="ind00152">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00043" Individual="ind00153">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00043" Individual="ind00154">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00043" Individual="ind00155">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00044" Individual="ind00156">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00044" Individual="ind00155">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00045" Individual="ind00008">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00045" Individual="ind00153">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00045" Individual="ind00158">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00047" Individual="ind00161">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00047" Individual="ind00163">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00047" Individual="ind00164">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00048" Individual="ind00165">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00048" Individual="ind00162">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00048" Individual="ind00166">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00048" Individual="ind00167">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00049" Individual="ind00168">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00049" Individual="ind00160">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00050" Individual="ind00150">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00050" Individual="ind00169">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00050" Individual="ind00170">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00050" Individual="ind00171">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00050" Individual="ind00172">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00050" Individual="ind00173">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00051" Individual="ind00174">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00051" Individual="ind00172">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00051" Individual="ind00175">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00052" Individual="ind00175">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00052" Individual="ind00176">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00052" Individual="ind00177">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00053" Individual="ind00178">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00053" Individual="ind00171">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00054" Individual="ind00152">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00054" Individual="ind00179">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00002" Individual="ind00181">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00055" Individual="ind00157">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00055" Individual="ind00149">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00055" Individual="ind00182">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00055" Individual="ind00183">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00055" Individual="ind00184">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00055" Individual="ind00185">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00056" Individual="ind00185">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00056" Individual="ind00186">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00056" Individual="ind00187">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00056" Individual="ind00188">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00057" Individual="ind00189">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00057" Individual="ind00188">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00057" Individual="ind00190">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00057" Individual="ind00191">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00057" Individual="ind00192">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00058" Individual="ind00191">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00058" Individual="ind00193">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00058" Individual="ind00194">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00056" Individual="ind00195">
+  <Position z="100">
+    <Points>-6400,-400, -6400,-430</Points>
+  </Position>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00056" Individual="ind00196">
+  <Position z="100">
+    <Points>-6260,-410</Points>
+  </Position>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00059" Individual="ind00187">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00059" Individual="ind00197">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00059" Individual="ind00198">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00059" Individual="ind00199">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00060" Individual="ind00187">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00060" Individual="ind00200">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00060" Individual="ind00201">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00061" Individual="ind00202">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00061" Individual="ind00198">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00061" Individual="ind00203">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00062" Individual="ind00128">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00062" Individual="ind00204">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00062" Individual="ind00205">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00063" Individual="ind00206">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00063" Individual="ind00131">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00065" Individual="ind00106">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00065" Individual="ind00114">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00065" Individual="ind00116">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00065" Individual="ind00115">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00066" Individual="ind00181">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00066" Individual="ind00105">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00066" Individual="ind00106">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00066" Individual="ind00108">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00066" Individual="ind00107">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00067" Individual="ind00070">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00067" Individual="ind00207">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00067" Individual="ind00072">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00067" Individual="ind00006">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00068" Individual="ind00208">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00068" Individual="ind00115">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00068" Individual="ind00209">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00002" Individual="ind00009">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00022" Individual="ind00009">
+  <Position z="100"/>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00069" Individual="ind00032"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00069" Individual="ind00210"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00070" Individual="ind00116"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00070" Individual="ind00211"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00070" Individual="ind00212"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00064" Individual="ind00177"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00064" Individual="ind00213"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00064" Individual="ind00214"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00064" Individual="ind00215"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00071" Individual="ind00118"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00071" Individual="ind00216"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00071" Individual="ind00217"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00072" Individual="ind00097"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00072" Individual="ind00181">
+  <Position>
+    <Points>-3910,-220, -3790,-220</Points>
+  </Position>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00072" Individual="ind00098"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00072" Individual="ind00099"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00072" Individual="ind00100"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00072" Individual="ind00101"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00072" Individual="ind00102"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00072" Individual="ind00103"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00072" Individual="ind00104"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00073" Individual="ind00021"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00073" Individual="ind00218"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00073" Individual="ind00219"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00073" Individual="ind00220"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00074" Individual="ind00020"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00074" Individual="ind00221"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00074" Individual="ind00222"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00074" Individual="ind00223"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00069" Individual="ind00224"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00069" Individual="ind00225"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00069" Individual="ind00226"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00069" Individual="ind00227"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00009" Individual="ind00032"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00009" Individual="ind00228"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00075" Individual="ind00216"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00075" Individual="ind00229"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00075" Individual="ind00230"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00050" Individual="ind00097"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00076" Individual="ind00159"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00076" Individual="ind00158"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00076" Individual="ind00160"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00076" Individual="ind00161"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00076" Individual="ind00162"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00055" Individual="ind00231"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00067" Individual="ind00232"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00077" Individual="ind00232"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00077" Individual="ind00233"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00077" Individual="ind00234"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00077" Individual="ind00235"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00078" Individual="ind00235"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00078" Individual="ind00236"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00078" Individual="ind00237"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00078" Individual="ind00238"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00077" Individual="ind00239"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00079" Individual="ind00240"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00079" Individual="ind00239"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00079" Individual="ind00241"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00079" Individual="ind00242"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00080" Individual="ind00241"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00080" Individual="ind00243"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00080" Individual="ind00244"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00080" Individual="ind00245"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00081" Individual="ind00245"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00081" Individual="ind00246"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00081" Individual="ind00247"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00082" Individual="ind00244"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00082" Individual="ind00248"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00082" Individual="ind00249"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00082" Individual="ind00250"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00061" Individual="ind00251"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00058" Individual="ind00252"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00083" Individual="ind00199"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00083" Individual="ind00253"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00068" Individual="ind00254"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00070" Individual="ind00255"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00084" Individual="ind00256"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00084" Individual="ind00127"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00084" Individual="ind00257"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00039" Individual="ind00258">
+  <Position>
+    <Points>-4940,-1240, -4970,-1240, -4970,-1290, -4970,-1240, -4890,-1240</Points>
+  </Position>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00085" Individual="ind00107"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00085" Individual="ind00259"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00058" Individual="ind00260"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00086" Individual="ind00192"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00086" Individual="ind00261"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00083" Individual="ind00262"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00083" Individual="ind00263"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00088" Individual="ind00265"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00088" Individual="ind00268"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00089" Individual="ind00082"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00089" Individual="ind00272"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00089" Individual="ind00273"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00089" Individual="ind00274"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00090" Individual="ind00269"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00090" Individual="ind00087"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00090" Individual="ind00271"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00090" Individual="ind00270"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00091" Individual="ind00087"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00091" Individual="ind00275"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00092" Individual="ind00086"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00092" Individual="ind00264"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00092" Individual="ind00267"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00092" Individual="ind00266"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00092" Individual="ind00265"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00093" Individual="ind00003"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00093" Individual="ind00276"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00094" Individual="ind00030"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00094" Individual="ind00277"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00094" Individual="ind00278"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00094" Individual="ind00279"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00095" Individual="ind00027"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00095" Individual="ind00280"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00095" Individual="ind00281"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00095" Individual="ind00282"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00096" Individual="ind00228"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00096" Individual="ind00283"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00096" Individual="ind00284"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00097" Individual="ind00045"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00097" Individual="ind00285"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00097" Individual="ind00286"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00097" Individual="ind00287"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00097" Individual="ind00288"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00012" Individual="ind00289"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00012" Individual="ind00290"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00012" Individual="ind00291"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00098" Individual="ind00043"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00098" Individual="ind00292"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00098" Individual="ind00293"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00098" Individual="ind00294"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00098" Individual="ind00295"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00098" Individual="ind00296"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00099" Individual="ind00051"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00099" Individual="ind00298"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00099" Individual="ind00299"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00099" Individual="ind00300"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00100" Individual="ind00050"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00100" Individual="ind00054"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00100" Individual="ind00055"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00100" Individual="ind00297"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00101" Individual="ind00301"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00101" Individual="ind00057"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00101" Individual="ind00302">
+  <Position>
+    <Points>-415,-530, -445,-530</Points>
+  </Position>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00101" Individual="ind00303">
+  <Position>
+    <Points>-415,-530, -390,-530</Points>
+  </Position>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Parent" Family="fam00102" Individual="ind00058"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00102" Individual="ind00304"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00102" Individual="ind00305"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00102" Individual="ind00306"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00103" Individual="ind00061"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00103" Individual="ind00307"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00103" Individual="ind00308"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00104" Individual="ind00309"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00104" Individual="ind00067"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00104" Individual="ind00310"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00104" Individual="ind00311"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00105" Individual="ind00068"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00105" Individual="ind00312"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00105" Individual="ind00313"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00105" Individual="ind00314"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00105" Individual="ind00315"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00106" Individual="ind00069"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00106" Individual="ind00316"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00108" Individual="ind00029"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00108" Individual="ind00319"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00109" Individual="ind00166"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00109" Individual="ind00317"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00109" Individual="ind00320"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00109" Individual="ind00321"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00110" Individual="ind00167"/>
+<PedigreeLink PedigreeLink="Parent" Family="fam00110" Individual="ind00322"/>
+<PedigreeLink PedigreeLink="Biological" Family="fam00110" Individual="ind00323">
+  <Position>
+    <Points>-4215,-650, -4235,-650</Points>
+  </Position>
+</PedigreeLink>
+<PedigreeLink PedigreeLink="Biological" Family="fam00110" Individual="ind00324">
+  <Position>
+    <Points>-4215,-650, -4185,-650, -4155,-650</Points>
+  </Position>
+</PedigreeLink>
+</PedigreeLinks>
+<Places>
+<Place ID="place00001">
+  <Name>Kazimierz</Name>
+</Place>
+<Place ID="place00002">
+  <Name>Lublin, Poland</Name>
+</Place>
+</Places>
+<Labels>
+<Label ID="label00001">
+  <Position Size="X" Width="1180" Height="680">-6990,-130</Position>
+  <Text Padding="15">Mussman ISRAEL&#10;(Tancerman branch)
+    <Alignment Horizontal="Right" Vertical="Top"/>
+  </Text>
+  <Display>
+    <Color Text="#000080" Fill="Transparent" Border="#000080"/>
+    <Border Pattern="_" Width="X"/>
+  </Display>
+</Label>
+<Label ID="label00002">
+  <Position Size="X" Width="895" Height="675">-3095,-115</Position>
+  <Text Padding="10">(Pasternak USA) =&gt; Goldstein, Chipkin, SIlverstein&#10;(contact = Jason G.)
+    <Alignment Horizontal="Right" Vertical="Top"/>
+  </Text>
+  <Display>
+    <Color Text="#000080" Fill="Transparent" Border="#000080"/>
+    <Border Pattern="_"/>
+  </Display>
+</Label>
+<Label ID="label00003">
+  <Position Size="X" Width="1635" Height="690">-1200,-140</Position>
+  <Text Padding="12">Kudel USA&#10;(contact = Michael)
+    <Alignment Horizontal="Right" Vertical="Top"/>
+  </Text>
+  <Display>
+    <Color Text="#000080" Fill="Transparent" Border="#000080"/>
+    <Border Pattern="_"/>
+  </Display>
+</Label>
+<Label ID="label00004">
+  <Position Size="X" Width="330" Height="650">-5530,-130</Position>
+  <Text Padding="10">Lavenda&#10;(Tancerman branch)
+    <Alignment Horizontal="Left" Vertical="Bottom"/>
+  </Text>
+  <Display>
+    <Color Text="#000080" Fill="Transparent" Border="#000080"/>
+    <Border Pattern="_"/>
+  </Display>
+</Label>
+<Label ID="label00005">
+  <Position Size="X" Width="1770" Height="830">-5810,20</Position>
+  <Text Padding="10">Tancerman&#10;branch
+    <Alignment Horizontal="Right" Vertical="Top"/>
+  </Text>
+  <Display>
+    <Color Text="#000080" Fill="Transparent" Border="#000080"/>
+    <Border Pattern="_"/>
+  </Display>
+</Label>
+<Label ID="label00008">
+  <Position Size="L" Width="130" Height="40">-5860,-870</Position>
+  <Text Padding="10">manque infos</Text>
+  <Display>
+    <Color Text="#FF0000" Fill="Transparent" Border="#FF0000"/>
+    <Border Pattern=".*" Width="T"/>
+  </Display>
+</Label>
+<Label ID="label00009">
+  <Position Size="X" Width="340" Height="60">-3780,20</Position>
+  <Text Padding="10">the KLOCHENDLER family</Text>
+  <Display>
+    <Color Text="#000080" Fill="Transparent" Border="#000080"/>
+  </Display>
+</Label>
+<Label ID="label00010">
+  <Position Size="L" Width="130" Height="40">-4475,-1260</Position>
+  <Text Padding="10">manque infos</Text>
+  <Display>
+    <Color Text="#FF0000" Fill="Transparent" Border="#FF0000"/>
+    <Border Pattern=".*" Width="T"/>
+  </Display>
+</Label>
+<Label ID="label00011">
+  <Position Size="L" Width="130" Height="40">-3450,-540</Position>
+  <Text Padding="10">manque infos</Text>
+  <Display>
+    <Color Text="#FF0000" Fill="Transparent" Border="#FF0000"/>
+    <Border Pattern=".*" Width="T"/>
+  </Display>
+</Label>
+<Label ID="label00012">
+  <Position Width="310" Height="100">-4410,-230</Position>
+  <Text Padding="10">Hermann KLOCHENDLER épouse sa cousine germaine Léa TANCERMAN, fille de sa tante Tema (et tante de Ethel KLOCHENDLER, 1ère épouse de son frère David)</Text>
+  <Display>
+    <Color Text="#000080" Fill="Transparent" Border="Transparent"/>
+  </Display>
+</Label>
+<Label ID="label00013">
+  <Position Width="280" Height="90">-3910,-780</Position>
+  <Text Padding="10">David KLOCHENDLER épouse Ethel TANCERMAN, sa petite-cousine (petite-fille de sa tante Tema), par ailleurs nièce de sa belle-soeur Léa TANCERMAN (épouse de son frère aîné Hermann)</Text>
+  <Display>
+    <Color Text="#000080" Fill="Transparent" Border="Transparent"/>
+  </Display>
+</Label>
+<Label ID="label00014">
+  <Position Size="X" Width="625" Height="670">455,20</Position>
+  <Text Padding="12">branche Arbeit/Oleg&#10;(contact Rose)&#10;
+    <Alignment Horizontal="Right" Vertical="Top"/>
+  </Text>
+  <Display>
+    <Color Text="#000080" Fill="Transparent" Border="#000080"/>
+    <Border Pattern="_"/>
+  </Display>
+</Label>
+</Labels>
+<Shapes>
+<Shape>
+  <Position>
+    <Points>-3390,-540, -3390,-480</Points>
+  </Position>
+  <Display>
+    <Arrow End="Y"/>
+    <Color Line="#FF0000" Fill="#DCFFDC"/>
+  </Display>
+</Shape>
+<Shape>
+  <Position>
+    <Points>-5780,-910, -5710,-960</Points>
+  </Position>
+  <Display>
+    <Arrow End="Y"/>
+    <Color Line="#FF0000" Fill="#DCFFDC"/>
+  </Display>
+</Shape>
+<Shape>
+  <Position>
+    <Points>-4370,-1260, -4330,-1210</Points>
+  </Position>
+  <Display>
+    <Arrow End="Y"/>
+    <Color Line="#FF0000" Fill="#DCFFDC"/>
+  </Display>
+</Shape>
+<Shape>
+  <Position>
+    <Points>-4450,-1260, -4500,-1210</Points>
+  </Position>
+  <Display>
+    <Arrow End="Y"/>
+    <Color Line="#FF0000" Fill="#DCFFDC"/>
+  </Display>
+</Shape>
+<Shape>
+  <Position>
+    <Points>-5820,-910, -5820,-980</Points>
+  </Position>
+  <Display>
+    <Arrow End="Y"/>
+    <Color Line="#FF0000" Fill="#DCFFDC"/>
+  </Display>
+</Shape>
+</Shapes>
+</GenoPro>
