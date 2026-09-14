@@ -1,0 +1,4 @@
+gMap.markers=[
+];
+gMap.index={};
+
